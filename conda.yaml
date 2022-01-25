@@ -1,0 +1,10 @@
+name: Credit
+channels:
+  - defaults
+dependencies:
+  - numpy>=1.14.3
+  - pandas: 1.2.4
+  - scitkit-learn: 0.24.2
+  - pip
+  - pip:
+    - mlflow

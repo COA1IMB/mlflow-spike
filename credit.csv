@@ -1,0 +1,1001 @@
+id;defaulted;credit_amount;annual_installment;term;interest_rate_type;property_type;property_quality_rating;annual_income;number_of_children;number_of_family_members;own_car;own_realty;gender;years_employed;age;currently_employed;education_type;family_status;customer_group
+0;no;588000;20100;29;variable;house;0.3;99600;0;1;true;false;female;14;37;true;incomplete higher;married;higher_value
+1;no;1022000;30800;35;fixed;house;0.1;99400;1;1;true;true;male;2;28;true;lower secondary;married;higher_value
+2;no;314000;10700;31;variable;house;0.6;44900;1;2;false;true;male;10;34;true;academic degree;single;lower_value
+3;no;126000;12100;11;fixed;house;0.3;47600;1;2;false;true;male;25;51;true;lower;single;lower_value
+4;no;47000;5400;10;fixed;house;0.1;37200;2;3;false;false;male;30;66;true;incomplete higher;divorced;lower_value
+5;no;531000;32600;17;variable;apartment;0.5;85600;2;2;false;true;male;24;46;true;academic degree;widowed;lower_value
+6;no;292000;8400;35;variable;house;0.7;27000;1;1;true;true;male;11;34;false;secondary;married;lower_value
+7;no;263000;6800;40;fixed;house;0.5;25700;2;2;true;false;male;6;28;true;lower secondary;married;lower_value
+8;no;355000;25400;14;fixed;apartment;0.1;103000;1;2;false;true;female;30;60;true;academic degree;widowed;higher_value
+9;no;419000;21000;20;variable;house;0.3;71300;1;1;true;false;male;13;36;true;secondary;single;lower_value
+10;no;139000;28500;5;variable;apartment;0.1;96500;0;1;true;false;male;30;65;false;lower secondary;single;higher_value
+11;yes;742300;28000;29;variable;apartment;0.4;60300;2;1;true;false;male;11;35;true;lower secondary;divorced;lower_value
+12;no;357000;25400;15;variable;house;1;56400;2;2;true;true;female;27;49;true;academic degree;married;lower_value
+13;no;549000;19700;31;variable;house;0.6;81600;1;2;true;true;male;13;35;true;secondary;widowed;lower_value
+14;no;222000;18500;12;fixed;apartment;0.7;58400;1;1;true;true;male;30;59;true;lower secondary;divorced;lower_value
+15;no;913000;36700;27;variable;apartment;0.4;74500;1;1;true;true;male;14;36;true;secondary;widowed;lower_value
+16;no;373000;9400;40;variable;apartment;1;43300;1;2;true;true;male;7;29;true;incomplete higher;married;lower_value
+17;no;360000;12500;30;fixed;house;0.8;49000;2;3;false;true;male;9;30;true;academic degree;divorced;lower_value
+18;no;920000;28600;33;fixed;apartment;0.4;57600;2;2;true;false;male;2;27;true;academic degree;single;lower_value
+19;no;969000;32700;31;fixed;apartment;0.9;78000;2;2;true;true;female;12;35;true;lower secondary;married;lower_value
+20;yes;356400;23200;17;variable;house;0.4;41400;2;2;true;false;male;30;49;false;incomplete higher;married;lower_value
+21;no;473000;19600;25;fixed;apartment;0.4;78300;0;1;false;true;male;10;33;true;lower secondary;single;lower_value
+22;no;1098000;28400;40;variable;house;0.9;108900;2;3;false;false;male;0;21;true;lower;married;higher_value
+23;no;391000;16500;24;variable;house;1;42000;2;2;true;false;male;18;38;false;incomplete higher;married;lower_value
+24;no;486100;25700;20;variable;apartment;1;106900;0;1;false;false;female;23;45;true;lower;single;higher_value
+25;no;377000;11800;32;fixed;apartment;0.5;69500;0;1;true;true;male;3;28;true;secondary;married;lower_value
+26;no;424000;20900;20;variable;apartment;0.3;63100;2;1;false;false;female;26;47;true;secondary;married;lower_value
+27;no;656000;25700;26;variable;house;0.6;96500;0;1;true;true;male;8;32;true;secondary;married;higher_value
+28;no;91600;10900;9;fixed;house;0.1;39500;2;2;true;true;female;30;54;false;lower;married;lower_value
+29;no;81000;11700;7;fixed;house;0.2;23500;3;3;false;true;male;30;61;true;academic degree;married;lower_value
+30;no;525000;20100;28;fixed;house;1;56000;2;1;true;true;male;14;42;true;academic degree;married;lower_value
+31;no;74000;15000;5;variable;apartment;0.4;30800;3;2;true;false;female;30;72;false;lower;married;lower_value
+32;no;332000;14200;24;variable;apartment;0.5;28600;1;1;true;true;female;24;46;true;academic degree;widowed;lower_value
+33;no;1023000;20300;52;variable;apartment;0.4;67400;2;2;false;false;male;0;21;true;lower;married;lower_value
+34;no;1093000;32400;35;fixed;house;1;80200;2;1;false;true;male;7;33;true;academic degree;married;lower_value
+35;no;72000;15900;5;variable;apartment;0.3;46800;1;1;true;false;male;30;63;true;academic degree;divorced;lower_value
+36;no;907000;24900;39;variable;apartment;0.7;53700;2;2;true;false;male;1;24;true;academic degree;married;lower_value
+37;no;724000;26800;27;variable;house;0.9;75800;2;3;true;false;male;14;39;true;secondary;single;lower_value
+38;no;247000;18200;14;fixed;apartment;0.7;83600;1;2;true;false;female;22;47;true;lower;single;lower_value
+39;no;537000;17200;32;variable;house;0.3;44900;1;1;false;true;female;6;30;true;academic degree;divorced;lower_value
+40;no;488000;15500;34;variable;apartment;0.9;73900;0;1;true;false;male;7;31;false;lower secondary;married;lower_value
+41;no;396000;17800;23;variable;apartment;1;46500;2;2;true;true;male;16;39;true;lower secondary;married;lower_value
+42;no;1347000;37200;37;variable;house;0.6;89400;2;2;false;true;male;7;29;true;academic degree;single;lower_value
+43;no;1057000;29000;37;variable;house;0.5;105000;1;2;true;true;female;11;34;true;lower secondary;single;higher_value
+44;no;490000;16100;33;fixed;apartment;0.5;58400;2;3;true;true;female;3;28;true;lower;married;lower_value
+45;no;192000;9800;21;variable;apartment;0.4;26300;2;2;false;false;male;19;41;true;incomplete higher;single;lower_value
+46;no;283000;12900;23;variable;apartment;0.6;62100;2;3;true;false;male;15;38;true;lower secondary;divorced;lower_value
+47;no;113000;7700;16;variable;apartment;0.4;40800;2;3;true;false;male;27;49;true;lower;single;lower_value
+48;no;521000;21500;26;variable;apartment;0.2;56700;3;3;false;true;female;16;35;true;lower secondary;divorced;lower_value
+49;no;296000;29000;10;variable;house;0.6;97800;1;2;true;true;male;30;60;true;academic degree;divorced;higher_value
+50;no;173300;17500;11;fixed;house;0.3;55300;1;2;true;true;male;30;67;false;lower;married;lower_value
+51;no;94000;12300;8;variable;apartment;0.3;39100;2;2;true;false;male;30;63;true;lower;married;lower_value
+52;no;544000;29300;19;variable;house;0.2;98600;0;1;false;false;male;17;39;true;lower secondary;single;higher_value
+53;no;1204000;26300;48;variable;apartment;0.3;98800;1;2;false;true;female;2;23;true;academic degree;married;higher_value
+54;yes;514000;43100;13;fixed;house;0.1;110300;2;3;false;false;female;14;42;true;lower;divorced;higher_value
+55;no;83000;12800;7;fixed;house;0.2;61500;1;2;true;true;male;30;67;true;lower secondary;divorced;lower_value
+56;no;374000;26000;15;fixed;apartment;0.4;52100;2;1;true;true;female;20;42;true;lower;divorced;lower_value
+57;no;191800;19100;10;variable;house;0.2;76200;2;3;true;false;male;30;61;true;lower secondary;single;lower_value
+58;no;895000;26100;35;variable;house;0.6;93500;1;1;false;true;female;11;34;true;lower;single;higher_value
+59;no;459000;32600;15;variable;house;0.3;81400;2;2;true;false;male;30;62;true;lower;married;lower_value
+60;no;1255000;37900;34;fixed;apartment;1;107800;2;3;true;true;male;15;36;true;academic degree;single;higher_value
+61;no;1270000;43000;32;fixed;house;0.6;103300;1;1;false;false;male;17;38;true;lower secondary;married;higher_value
+62;no;206000;17100;13;fixed;house;0.5;77900;1;2;true;true;female;30;77;false;academic degree;divorced;lower_value
+63;no;413000;11300;37;variable;house;0.4;29900;1;1;true;true;male;4;30;true;incomplete higher;married;lower_value
+64;no;695000;18900;40;variable;house;1;81700;0;1;true;true;male;6;28;true;secondary;divorced;lower_value
+65;yes;320500;14600;24;fixed;house;0.4;57000;2;3;false;true;male;16;40;true;lower secondary;divorced;lower_value
+66;yes;359000;14200;26;variable;house;0.6;27000;2;1;false;true;female;17;38;false;lower;divorced;lower_value
+67;no;1449000;44900;32;fixed;apartment;0.2;117600;2;3;true;true;male;11;32;true;incomplete higher;divorced;higher_value
+68;no;295000;56700;6;fixed;apartment;0.6;117200;2;1;true;true;female;30;77;false;secondary;single;higher_value
+69;no;117000;9000;14;variable;apartment;0.3;47500;2;3;true;true;female;30;64;true;incomplete higher;single;lower_value
+70;no;235000;10500;24;variable;apartment;0.7;28200;2;1;false;true;female;11;36;true;lower secondary;single;lower_value
+71;no;460000;15200;32;fixed;apartment;0.4;57900;1;1;true;false;male;19;40;true;incomplete higher;divorced;lower_value
+72;no;567900;27000;23;fixed;house;1;117200;0;1;true;true;male;25;49;true;lower secondary;single;higher_value
+73;no;289000;7400;41;fixed;apartment;0.2;21400;2;2;true;false;male;0;22;true;incomplete higher;married;lower_value
+74;no;468000;12900;39;variable;house;0.1;39100;2;2;true;false;male;11;32;true;incomplete higher;single;lower_value
+75;no;962000;28600;36;fixed;house;0.1;89900;3;4;true;false;male;6;30;true;secondary;married;lower_value
+76;no;297000;18700;17;variable;house;0.7;73500;1;2;false;true;female;29;55;true;lower secondary;married;lower_value
+77;no;206000;11000;20;fixed;apartment;0.4;59300;2;3;true;false;male;20;45;false;incomplete higher;single;lower_value
+78;yes;93000;18200;5;fixed;house;0.3;72600;1;2;false;false;female;30;60;true;secondary;widowed;lower_value
+79;no;285000;9800;30;fixed;apartment;0.5;27800;2;2;true;false;female;8;30;true;academic degree;divorced;lower_value
+80;no;224000;20000;11;variable;apartment;0.7;85000;2;3;true;false;male;28;54;true;secondary;widowed;lower_value
+81;no;106800;10600;11;variable;apartment;0.1;49500;0;1;false;true;male;30;61;true;incomplete higher;married;lower_value
+82;no;353000;20500;18;fixed;house;0.4;78400;1;1;true;false;female;24;47;true;incomplete higher;single;lower_value
+83;no;1661000;52800;33;fixed;apartment;0.5;107900;2;2;true;false;male;6;29;true;academic degree;married;higher_value
+84;no;191800;9200;21;fixed;apartment;0.4;27600;2;2;true;true;female;12;35;true;lower secondary;single;lower_value
+85;no;1203000;46000;26;fixed;house;0.7;112400;2;3;true;true;male;13;38;true;secondary;married;higher_value
+86;no;1649000;37300;49;fixed;house;1;78300;2;2;true;true;male;1;25;true;lower secondary;married;lower_value
+87;yes;473000;14400;33;fixed;house;0.3;28400;1;1;false;false;female;13;31;true;lower;married;lower_value
+88;yes;252000;11400;23;variable;apartment;0.3;27300;2;1;false;false;male;25;41;true;incomplete higher;widowed;lower_value
+89;no;255000;21300;12;variable;house;0.1;54200;1;1;false;false;female;30;50;true;lower secondary;married;lower_value
+90;no;390000;14600;30;variable;house;0.5;32500;1;1;true;true;female;14;37;false;incomplete higher;divorced;lower_value
+91;no;81000;17700;5;variable;house;0.3;76500;2;3;true;true;male;30;61;true;lower;single;lower_value
+92;no;446000;29200;16;variable;house;0.9;87600;1;1;true;true;female;30;64;true;lower secondary;divorced;lower_value
+93;no;83000;8400;10;fixed;house;0.4;24400;2;2;false;true;female;30;61;true;lower;married;lower_value
+94;no;1644000;40500;41;fixed;house;0.1;113400;3;4;false;false;female;0;23;true;lower secondary;married;higher_value
+95;no;1876000;40200;50;fixed;house;0.5;100700;2;3;true;true;female;0;24;true;lower secondary;single;higher_value
+96;no;313000;9100;38;variable;house;0.5;28700;1;1;true;false;female;14;33;true;academic degree;single;lower_value
+97;no;971000;28700;37;fixed;apartment;0.4;63200;1;1;true;false;male;1;24;true;lower secondary;married;lower_value
+98;no;363000;29300;13;fixed;apartment;0.7;76700;1;1;false;true;female;30;78;false;lower secondary;widowed;lower_value
+99;no;259400;14100;19;fixed;house;0.7;31000;2;2;true;true;male;23;48;true;lower secondary;single;lower_value
+100;no;592000;27800;22;variable;apartment;0.3;113600;0;1;false;false;female;22;45;true;lower secondary;married;higher_value
+101;no;1256000;35900;36;variable;apartment;0.5;108400;0;1;false;true;male;8;28;true;lower secondary;divorced;higher_value
+102;no;597000;23000;29;fixed;apartment;0.4;83100;2;2;false;true;male;20;40;true;incomplete higher;married;lower_value
+103;no;904000;39700;24;variable;house;0.5;100800;2;1;true;true;male;17;38;true;lower secondary;married;higher_value
+104;no;984000;23700;45;variable;apartment;0.7;54000;2;2;false;true;female;0;22;true;lower;single;lower_value
+105;yes;524000;16200;34;variable;house;0.4;50500;2;2;false;false;male;9;29;true;secondary;divorced;lower_value
+106;no;340000;15900;24;variable;house;0.6;44100;1;1;true;false;male;24;46;true;lower secondary;divorced;lower_value
+107;no;911000;26500;35;variable;apartment;1;85100;3;4;false;true;female;9;33;true;lower secondary;divorced;lower_value
+108;no;1089000;22300;51;fixed;apartment;0.7;51800;1;1;false;false;female;0;21;true;secondary;married;lower_value
+109;no;273000;7500;38;variable;house;0.4;17600;2;2;true;true;male;10;29;false;incomplete higher;divorced;lower_value
+110;no;442000;14000;32;variable;apartment;0.8;45600;1;1;true;false;female;15;38;true;academic degree;married;lower_value
+111;yes;542000;14300;41;variable;house;0.1;37800;5;5;true;false;female;0;23;true;lower secondary;married;lower_value
+112;no;560000;35600;16;variable;apartment;0.3;117800;1;2;true;true;male;30;64;true;lower;married;higher_value
+113;no;480000;25900;20;variable;apartment;1;65900;1;1;true;false;male;16;38;true;academic degree;married;lower_value
+114;no;189000;39000;5;variable;house;0.3;87100;2;1;true;true;male;30;73;false;incomplete higher;married;lower_value
+115;no;353000;10200;36;fixed;house;0.4;24600;3;2;true;true;female;12;33;true;secondary;divorced;lower_value
+116;no;287000;7700;40;fixed;house;0.6;23400;1;1;true;true;female;5;28;true;lower secondary;widowed;lower_value
+117;yes;334000;9200;40;fixed;house;0.6;39400;3;4;true;true;female;10;28;true;lower secondary;divorced;lower_value
+118;no;245000;14200;19;variable;apartment;0.5;32500;1;1;false;false;male;17;41;false;academic degree;single;lower_value
+119;no;1401000;41300;38;fixed;apartment;1;92000;3;3;false;true;male;4;27;true;academic degree;single;higher_value
+120;no;770600;29100;28;fixed;house;1;91400;2;2;true;true;male;13;36;true;academic degree;widowed;higher_value
+121;yes;181000;19800;9;variable;house;0.2;77100;1;2;true;true;female;27;47;true;lower;married;lower_value
+122;no;614000;19700;32;variable;house;0.8;66200;2;1;true;true;female;6;35;true;secondary;divorced;lower_value
+123;no;332000;12600;28;variable;house;0.4;27300;2;1;true;true;male;11;35;true;academic degree;married;lower_value
+124;no;1853000;62800;32;fixed;house;0.9;126000;1;1;true;false;male;10;34;true;secondary;single;higher_value
+125;no;1821000;37900;50;variable;apartment;1;80800;3;3;true;true;female;0;21;true;lower secondary;single;lower_value
+126;no;1035500;21000;50;fixed;apartment;0.6;53500;2;2;false;false;male;0;22;true;lower secondary;single;lower_value
+127;no;595000;21700;28;variable;apartment;0.7;67100;2;1;true;false;male;14;38;true;academic degree;single;lower_value
+128;no;198000;9400;22;variable;house;0.3;39800;2;3;false;true;female;17;41;true;academic degree;single;lower_value
+129;no;1078000;43600;27;fixed;house;1;121800;0;1;true;true;male;12;36;true;lower secondary;married;higher_value
+130;no;638000;16700;39;fixed;house;0.6;54200;1;1;true;true;male;4;30;true;academic degree;single;lower_value
+131;no;1147000;31300;39;variable;house;0.9;90600;2;2;false;false;male;4;28;true;secondary;married;higher_value
+132;no;137000;11600;13;fixed;house;0.2;61300;1;2;true;true;male;30;72;false;lower;divorced;lower_value
+133;no;975600;24500;43;variable;house;0.6;89000;1;2;true;true;female;2;24;true;lower secondary;married;lower_value
+134;yes;839300;20800;44;variable;house;0.6;68600;3;4;false;false;female;5;22;true;lower secondary;married;lower_value
+135;no;120000;13600;9;fixed;house;0.2;29900;2;1;false;true;female;25;45;true;lower;married;lower_value
+136;no;149000;20600;8;fixed;apartment;0.4;74100;3;3;true;true;male;30;61;true;academic degree;married;lower_value
+137;no;66000;14400;5;variable;house;0.4;37500;2;1;true;true;female;30;64;false;academic degree;married;lower_value
+138;no;1178000;48400;25;variable;apartment;0.3;103900;2;1;true;false;male;12;33;true;secondary;divorced;higher_value
+139;no;396000;20400;20;variable;apartment;1;60000;3;3;false;true;female;21;45;true;secondary;married;lower_value
+140;no;831000;41300;21;variable;apartment;0.7;84700;2;2;true;false;male;16;37;true;lower secondary;single;lower_value
+141;no;549000;18700;30;variable;apartment;0.7;85100;1;2;true;false;male;13;37;true;lower;married;lower_value
+142;no;725000;32300;23;fixed;house;0.8;83200;2;2;true;true;male;16;43;true;incomplete higher;widowed;lower_value
+143;no;312800;10100;33;variable;house;0.7;42000;2;3;false;true;male;15;39;true;secondary;married;lower_value
+144;yes;95000;7800;13;variable;apartment;0.1;52200;0;1;false;false;female;30;77;false;incomplete higher;divorced;lower_value
+145;yes;291000;13700;23;fixed;apartment;0.4;26000;1;1;false;false;male;18;40;true;incomplete higher;single;lower_value
+146;no;538000;25800;21;variable;apartment;0.6;63300;1;1;false;false;male;17;40;true;incomplete higher;single;lower_value
+147;no;345000;13600;27;fixed;apartment;0.5;35400;1;1;true;true;male;19;42;true;secondary;divorced;lower_value
+148;yes;1249000;37100;35;variable;apartment;0.4;81400;1;1;false;true;male;13;32;true;secondary;married;lower_value
+149;no;1574000;47400;36;fixed;apartment;0.6;116600;2;2;true;false;female;8;31;true;lower;married;higher_value
+150;no;646000;24600;28;fixed;house;1;120900;0;1;false;false;male;16;40;true;incomplete higher;single;higher_value
+151;no;502000;15300;34;variable;house;0.5;56000;1;1;true;false;male;7;31;true;lower;single;lower_value
+152;no;323700;26700;13;variable;house;0.6;72000;1;1;true;true;male;30;75;false;incomplete higher;single;lower_value
+153;no;580000;18300;33;fixed;house;0.6;42000;1;1;true;true;male;6;29;true;lower secondary;single;lower_value
+154;no;208000;17400;12;variable;house;0.7;41100;2;2;false;true;male;25;50;true;lower;single;lower_value
+155;no;364100;9200;43;fixed;house;0.7;26400;2;2;false;true;male;0;22;true;academic degree;married;lower_value
+156;no;1210000;36400;35;variable;apartment;0.7;93000;2;1;false;false;male;16;39;true;incomplete higher;single;higher_value
+157;no;1158000;30500;40;fixed;apartment;0.8;108900;2;3;false;false;male;0;21;true;lower;single;higher_value
+158;no;201000;25900;8;fixed;apartment;0.3;65500;3;3;true;false;female;29;51;true;academic degree;married;lower_value
+159;no;548000;25300;24;variable;apartment;0.9;83000;3;4;true;true;male;21;39;true;lower;widowed;lower_value
+160;no;827000;63700;13;variable;apartment;1;132300;2;2;true;true;female;30;70;false;lower;married;higher_value
+161;no;117000;19800;6;fixed;house;0.3;60500;2;2;false;true;male;30;74;false;secondary;divorced;lower_value
+162;no;91000;6100;15;fixed;apartment;0.4;36300;3;4;false;true;female;30;52;false;academic degree;divorced;lower_value
+163;no;417000;20900;21;variable;apartment;0.7;64300;2;3;true;true;female;19;40;true;lower secondary;married;lower_value
+164;no;1354900;31700;43;variable;apartment;1;73100;1;1;false;true;male;0;22;true;incomplete higher;married;lower_value
+165;no;249000;26700;9;fixed;house;0.3;83000;2;2;true;false;female;30;62;true;secondary;married;lower_value
+166;yes;88000;6900;14;fixed;house;0.1;19800;2;1;true;true;female;27;48;true;lower secondary;married;lower_value
+167;no;934000;23000;44;variable;house;1;48700;1;1;true;false;male;2;26;true;lower secondary;single;lower_value
+168;no;218000;6300;36;fixed;house;0.2;16100;2;2;false;true;female;5;29;true;incomplete higher;widowed;lower_value
+169;no;1150000;45400;26;variable;house;1;100100;1;1;false;false;male;7;32;true;secondary;divorced;higher_value
+170;no;1494400;38400;42;variable;apartment;0.7;96700;1;1;false;false;male;1;24;true;incomplete higher;married;higher_value
+171;no;318000;32100;11;fixed;apartment;0.5;75500;2;2;true;false;female;30;63;true;lower secondary;married;lower_value
+172;no;244000;17100;16;fixed;house;0.5;41500;3;3;false;true;female;25;51;true;incomplete higher;married;lower_value
+173;no;563000;16900;34;fixed;apartment;0.8;57000;1;2;false;false;male;12;35;true;lower;married;lower_value
+174;no;303000;40300;8;fixed;house;0.7;92100;1;1;false;false;female;30;55;true;incomplete higher;single;higher_value
+175;no;480000;12000;40;variable;apartment;0.4;35600;1;1;true;true;female;5;24;true;lower secondary;single;lower_value
+176;no;580000;20200;30;variable;house;0.4;82200;0;1;false;true;male;5;30;true;secondary;married;lower_value
+177;no;708000;23500;31;fixed;house;0.9;99900;1;2;true;false;male;13;39;true;secondary;married;higher_value
+178;no;1071000;25500;42;fixed;house;0.6;74500;2;2;true;false;female;0;22;true;academic degree;married;lower_value
+179;no;574000;20800;28;variable;apartment;1;61100;1;1;true;true;female;8;34;true;incomplete higher;single;lower_value
+180;yes;476000;18700;26;variable;apartment;0.6;41100;2;2;true;false;male;19;41;true;secondary;divorced;lower_value
+181;no;310000;29000;12;fixed;apartment;0.7;63100;3;3;false;true;female;30;67;true;lower;divorced;lower_value
+182;no;600000;13400;46;fixed;house;0.9;45800;1;1;true;false;male;0;21;false;incomplete higher;single;lower_value
+183;no;794600;25600;34;variable;house;1;65900;1;1;true;true;male;16;37;true;academic degree;divorced;lower_value
+184;no;348800;18100;21;variable;house;0.6;60200;1;1;false;false;male;21;43;true;secondary;widowed;lower_value
+185;no;715000;17000;45;fixed;apartment;0.1;60300;2;3;true;true;male;1;28;true;incomplete higher;single;lower_value
+186;no;487000;14400;36;fixed;house;0.3;35800;3;2;true;true;male;5;30;true;secondary;divorced;lower_value
+187;no;495000;28200;18;fixed;apartment;1;75100;2;1;false;false;female;24;47;true;academic degree;divorced;lower_value
+188;no;1117000;27700;43;fixed;house;0.9;58200;2;2;true;false;male;0;20;true;lower;married;lower_value
+189;no;953000;25800;38;variable;house;1;82800;0;1;true;true;male;6;29;true;academic degree;single;lower_value
+190;no;868000;25100;35;fixed;apartment;0.9;71700;1;2;true;false;male;9;31;true;academic degree;single;lower_value
+191;no;852400;19500;44;fixed;apartment;1;37300;2;2;false;true;male;0;21;true;lower;married;lower_value
+192;no;497000;30600;18;fixed;apartment;0.8;86100;2;3;true;false;male;25;48;true;lower;divorced;lower_value
+193;no;797000;21400;39;fixed;apartment;0.7;45400;1;1;true;false;female;8;30;true;incomplete higher;single;lower_value
+194;no;941000;29500;34;variable;apartment;1;76300;1;1;false;true;male;7;28;true;incomplete higher;married;lower_value
+195;no;515000;14600;36;fixed;house;0.5;47200;1;1;false;true;male;4;28;true;academic degree;single;lower_value
+196;no;1875900;43200;45;variable;house;0.9;128700;0;1;true;false;male;0;21;true;lower secondary;single;higher_value
+197;no;920000;18800;52;variable;house;1;44200;2;2;true;true;male;0;21;true;lower;married;lower_value
+198;no;379000;15300;26;variable;house;0.4;58300;2;2;true;true;female;16;40;true;academic degree;divorced;lower_value
+199;no;654000;28900;24;fixed;house;0.5;85000;2;3;false;false;male;16;40;true;academic degree;divorced;lower_value
+200;no;1357000;42100;35;fixed;house;0.9;107700;3;4;true;true;male;11;33;true;lower;married;higher_value
+201;no;175000;21200;9;fixed;house;0.1;89300;2;3;false;true;female;30;53;true;secondary;divorced;lower_value
+202;no;411000;27500;16;fixed;house;0.3;121300;0;1;false;true;male;30;59;true;incomplete higher;single;higher_value
+203;no;626000;13500;47;variable;apartment;0.6;49200;3;3;true;true;male;2;26;true;lower;single;lower_value
+204;yes;255000;16300;17;variable;apartment;0.5;32300;2;2;true;true;female;30;71;false;incomplete higher;married;lower_value
+205;no;1183000;52500;24;variable;house;0.8;109300;2;1;true;false;male;27;49;true;secondary;married;higher_value
+206;no;310000;30000;11;fixed;house;0.5;67800;1;1;false;true;male;30;63;true;lower secondary;divorced;lower_value
+207;no;487200;18000;28;fixed;apartment;0.8;66400;1;2;false;false;female;10;29;true;lower secondary;married;lower_value
+208;no;305200;7400;42;variable;apartment;0.5;27100;1;1;false;true;male;0;21;true;secondary;single;lower_value
+209;no;141000;27700;6;fixed;house;0.3;72400;2;1;true;false;male;30;55;true;incomplete higher;single;lower_value
+210;no;1329000;44400;31;fixed;apartment;0.7;95900;1;1;false;true;male;11;36;true;incomplete higher;single;higher_value
+211;no;209000;30300;7;variable;house;0.4;66300;1;1;false;true;female;30;60;true;academic degree;divorced;lower_value
+212;yes;295000;15600;20;fixed;apartment;0.5;76600;0;1;false;false;male;21;40;true;incomplete higher;married;lower_value
+213;no;416000;24100;18;variable;apartment;0.9;93600;0;1;false;false;male;23;47;true;secondary;divorced;higher_value
+214;no;804000;24700;33;fixed;apartment;0.7;61100;2;2;true;false;male;6;30;true;incomplete higher;married;lower_value
+215;no;668200;36700;19;fixed;house;0.3;81000;3;3;false;false;male;21;42;true;secondary;married;lower_value
+216;no;304000;16600;20;variable;house;0.6;57300;2;3;true;false;female;23;47;true;lower;married;lower_value
+217;no;273000;16900;17;variable;apartment;0.5;39400;2;2;false;true;female;30;68;false;secondary;single;lower_value
+218;no;162000;8600;20;fixed;apartment;0.3;59800;0;1;true;false;male;18;41;true;incomplete higher;widowed;lower_value
+219;no;921000;21800;47;variable;house;0.2;98400;2;3;true;true;female;0;20;true;lower;single;higher_value
+220;no;476000;28600;17;variable;house;0.4;58600;2;2;false;false;male;28;50;true;lower secondary;married;lower_value
+221;no;115000;20700;6;variable;house;0.4;41800;1;1;true;false;male;30;56;true;academic degree;married;lower_value
+222;no;941000;37900;25;fixed;apartment;0.5;88500;2;1;true;false;male;24;45;true;lower;married;lower_value
+223;no;1037700;34900;31;fixed;house;1;93300;1;1;true;true;male;16;36;true;secondary;single;higher_value
+224;no;610000;20200;32;fixed;house;1;44700;2;2;false;false;male;19;40;true;lower secondary;married;lower_value
+225;no;815300;24700;35;fixed;house;0.8;65500;1;1;false;true;male;6;28;true;incomplete higher;married;lower_value
+226;no;1160800;30300;42;variable;house;0.4;67400;2;2;true;true;female;1;26;true;incomplete higher;married;lower_value
+227;no;327000;26600;13;variable;apartment;0.6;56300;1;1;true;true;female;30;60;true;incomplete higher;divorced;lower_value
+228;no;205000;25200;8;fixed;apartment;0.6;72800;2;2;true;true;female;25;47;true;academic degree;married;lower_value
+229;no;503600;42700;12;fixed;apartment;0.6;103100;2;1;true;true;female;30;72;false;secondary;single;higher_value
+230;no;573300;13800;42;variable;house;0.1;44100;2;2;true;true;male;6;27;true;lower secondary;married;lower_value
+231;no;912000;22600;42;fixed;house;1;86500;3;4;false;true;male;1;23;true;lower secondary;single;lower_value
+232;no;1208000;40800;31;fixed;apartment;0.9;105000;2;2;false;false;male;4;29;true;secondary;widowed;higher_value
+233;no;1191000;47200;27;variable;apartment;0.1;109000;2;2;true;true;female;12;34;true;incomplete higher;single;higher_value
+234;no;463000;13700;34;variable;house;0.3;49600;2;3;true;false;male;6;26;true;academic degree;married;lower_value
+235;no;704000;33100;22;variable;apartment;1;73000;3;3;true;true;female;23;41;true;secondary;divorced;lower_value
+236;no;160000;18000;9;fixed;house;0.1;41600;1;1;true;true;male;30;59;false;academic degree;married;lower_value
+237;no;562000;14800;41;variable;house;0.4;74000;2;3;true;false;female;0;23;true;secondary;single;lower_value
+238;yes;580000;20600;28;variable;apartment;0.5;64000;3;4;false;false;male;19;34;true;incomplete higher;married;lower_value
+239;no;559200;20700;28;fixed;apartment;0.8;72900;2;2;true;true;male;14;34;true;incomplete higher;married;lower_value
+240;yes;313000;27800;12;variable;apartment;0.5;70500;1;2;false;false;male;30;52;true;lower;widowed;lower_value
+241;no;197000;8400;25;variable;house;0.2;39100;2;3;true;true;male;15;39;true;lower secondary;single;lower_value
+242;no;134000;8300;17;variable;apartment;0.4;22100;2;2;true;false;male;17;40;true;lower secondary;married;lower_value
+243;no;585300;33500;18;fixed;apartment;0.4;96200;2;3;true;false;male;30;49;true;lower secondary;divorced;higher_value
+244;no;584000;15600;39;fixed;apartment;0.7;40700;1;1;false;true;female;5;30;true;incomplete higher;divorced;lower_value
+245;no;440400;20700;22;fixed;apartment;0.8;47500;2;2;true;true;male;24;48;true;academic degree;single;lower_value
+246;no;1016000;26000;40;fixed;house;0.4;84000;0;1;true;true;male;4;27;true;lower;divorced;lower_value
+247;no;632000;42600;16;fixed;house;1;98100;1;1;true;true;male;25;50;true;lower secondary;married;higher_value
+248;no;178000;9500;19;fixed;apartment;0.2;26200;2;2;true;false;male;24;46;true;incomplete higher;married;lower_value
+249;no;1211000;50000;25;variable;apartment;0.9;113200;3;4;true;true;female;17;42;true;secondary;married;higher_value
+250;no;84000;8200;10;fixed;house;0.3;45900;2;3;false;false;male;29;54;false;academic degree;single;lower_value
+251;yes;673000;29800;23;fixed;apartment;0.7;73200;1;1;true;false;male;18;38;true;lower;married;lower_value
+252;no;801000;16200;51;variable;apartment;1;48400;1;1;false;false;male;0;20;true;incomplete higher;single;lower_value
+253;no;818000;30000;28;variable;house;0.5;93200;1;2;false;true;female;11;36;true;academic degree;divorced;higher_value
+254;yes;58000;6600;9;fixed;house;0.2;50000;0;1;false;true;female;30;71;false;incomplete higher;single;lower_value
+255;no;731000;20400;37;fixed;apartment;0.1;69500;2;2;false;true;male;5;26;true;lower;single;lower_value
+256;no;162000;15300;11;fixed;apartment;0.3;48000;1;1;true;true;male;30;54;true;secondary;single;lower_value
+257;no;498000;18900;28;variable;house;0.8;73200;2;3;false;false;male;11;34;true;incomplete higher;widowed;lower_value
+258;yes;571000;17700;34;fixed;house;0.8;48000;2;2;false;true;female;17;36;true;secondary;widowed;lower_value
+259;no;775000;22400;36;variable;apartment;1;63900;2;1;true;true;male;4;26;true;lower secondary;married;lower_value
+260;no;630000;14900;43;variable;apartment;1;34400;2;2;false;true;male;5;29;true;incomplete higher;widowed;lower_value
+261;no;568000;24900;25;fixed;apartment;0.9;111200;2;3;false;false;male;12;38;true;incomplete higher;married;higher_value
+262;no;435000;12700;37;fixed;apartment;1;31900;1;1;true;true;male;0;25;true;lower;single;lower_value
+263;no;896000;26400;34;fixed;house;0.9;88700;1;1;true;true;female;5;27;true;lower secondary;divorced;lower_value
+264;no;561000;26200;23;variable;house;1;110500;0;1;false;true;male;19;44;true;lower secondary;single;higher_value
+265;no;1526000;46600;36;fixed;house;0.6;130100;0;1;true;false;female;4;27;true;lower;married;higher_value
+266;no;967000;21500;49;variable;house;0.6;89300;0;1;true;false;female;0;22;true;lower secondary;married;lower_value
+267;no;625000;19700;33;variable;apartment;0.4;81900;2;3;false;true;male;6;30;true;academic degree;married;lower_value
+268;no;146000;7300;22;fixed;apartment;0.3;46900;1;2;true;false;male;15;37;true;secondary;married;lower_value
+269;no;214000;13700;17;variable;apartment;0.1;43900;2;2;true;false;female;28;50;true;secondary;married;lower_value
+270;no;534000;15800;37;fixed;apartment;1;53200;3;2;false;false;male;10;33;true;secondary;divorced;lower_value
+271;no;594000;22900;28;fixed;apartment;1;72600;1;1;false;true;female;14;37;true;secondary;single;lower_value
+272;no;543000;20600;29;variable;house;0.1;69900;3;4;true;false;male;18;41;false;academic degree;married;lower_value
+273;no;278000;11400;27;fixed;house;0.1;31900;1;1;true;false;male;14;37;true;incomplete higher;single;lower_value
+274;no;538000;18200;30;fixed;apartment;0.8;86700;1;2;false;true;female;12;37;true;academic degree;married;lower_value
+275;no;951000;28800;36;variable;house;1;77800;1;2;true;false;female;3;25;true;incomplete higher;married;lower_value
+276;no;94000;9400;10;fixed;apartment;0.3;20600;3;2;true;true;female;29;50;true;academic degree;widowed;lower_value
+277;yes;678000;26500;27;variable;house;0.1;64600;2;2;false;false;female;20;40;true;secondary;divorced;lower_value
+278;no;636000;45700;15;fixed;apartment;0.8;97200;1;1;false;true;male;29;51;true;academic degree;married;higher_value
+279;no;136000;17100;8;fixed;house;0.1;61600;2;3;true;true;male;30;58;true;secondary;divorced;lower_value
+280;no;231000;8000;31;fixed;house;0.7;24100;2;2;false;true;female;13;36;false;lower secondary;married;lower_value
+281;no;550000;44200;13;fixed;apartment;1;95200;1;1;true;true;male;30;55;true;lower;single;higher_value
+282;no;434000;11900;39;fixed;apartment;0.7;26300;3;3;true;true;female;10;30;true;incomplete higher;widowed;lower_value
+283;no;312000;24200;14;variable;house;0.6;71000;2;1;true;true;male;30;71;false;academic degree;divorced;lower_value
+284;no;1629000;41200;40;variable;apartment;0.5;85800;2;2;true;true;female;6;27;true;secondary;married;lower_value
+285;no;208000;27200;8;fixed;house;0.4;124900;1;2;true;true;male;30;65;false;academic degree;single;higher_value
+286;no;157000;9900;18;fixed;apartment;0.1;27600;1;1;true;true;female;27;51;true;incomplete higher;divorced;lower_value
+287;no;925000;28100;34;variable;apartment;0.6;75500;1;1;true;true;male;4;26;true;academic degree;married;lower_value
+288;no;544000;38900;15;variable;apartment;0.1;85200;2;2;true;false;male;30;52;true;incomplete higher;single;lower_value
+289;no;679000;19900;37;fixed;house;0.6;84200;0;1;true;true;male;6;30;true;lower;divorced;lower_value
+290;no;256000;12200;21;fixed;apartment;0.2;47300;1;2;true;true;male;20;44;true;secondary;widowed;lower_value
+291;no;545000;34000;16;fixed;apartment;0.5;87300;1;1;false;true;male;30;67;true;academic degree;single;lower_value
+292;yes;193000;12400;16;variable;house;0.2;32900;1;1;false;false;male;20;46;true;lower secondary;widowed;lower_value
+293;no;280000;8500;34;fixed;apartment;0.5;30600;1;1;false;true;male;13;35;true;academic degree;divorced;lower_value
+294;no;304000;15900;20;fixed;apartment;0.7;61400;1;2;true;false;male;16;41;true;academic degree;single;lower_value
+295;no;638000;30700;21;fixed;house;0.5;86500;2;2;false;false;male;24;45;true;lower secondary;divorced;lower_value
+296;no;175000;12600;15;variable;apartment;0.3;47800;1;1;true;true;male;29;52;true;academic degree;married;lower_value
+297;no;575000;17900;33;fixed;house;0.3;72900;1;2;true;false;male;8;32;true;secondary;divorced;lower_value
+298;no;261000;11600;24;fixed;apartment;0.6;63700;0;1;true;true;male;21;45;true;secondary;single;lower_value
+299;no;944000;23600;42;variable;apartment;0.5;85600;1;1;true;false;female;0;21;true;incomplete higher;single;lower_value
+300;no;542000;13000;43;fixed;house;0.8;31900;1;1;true;true;male;0;23;true;secondary;married;lower_value
+301;no;723000;29800;26;variable;apartment;1;107900;1;1;false;true;male;21;42;true;secondary;divorced;higher_value
+302;no;339000;11500;32;variable;house;0.1;34600;2;2;true;false;male;9;32;true;academic degree;single;lower_value
+303;no;940000;23900;43;fixed;house;0.1;86900;1;1;true;true;male;0;21;true;incomplete higher;single;lower_value
+304;no;453000;12200;38;variable;house;0.8;36800;3;2;false;true;male;4;31;true;incomplete higher;single;lower_value
+305;no;398000;14900;27;variable;house;1;52400;2;3;false;false;male;15;37;true;academic degree;widowed;lower_value
+306;no;736000;33400;23;fixed;house;0.5;70500;2;2;true;true;male;24;47;true;academic degree;single;lower_value
+307;no;460000;20300;23;fixed;house;1;45700;2;1;true;true;male;21;48;true;academic degree;married;lower_value
+308;no;652000;15300;43;fixed;house;0.3;53800;2;3;true;true;male;2;25;true;incomplete higher;married;lower_value
+309;no;615000;48200;13;fixed;house;1;99600;1;1;false;false;male;30;63;true;secondary;widowed;higher_value
+310;no;1771300;67500;28;variable;apartment;0.5;138400;1;1;false;false;male;13;39;true;incomplete higher;divorced;higher_value
+311;no;198000;18300;11;fixed;house;0.3;77700;0;1;true;false;female;30;53;true;secondary;widowed;lower_value
+312;no;364000;24900;15;variable;house;0.7;77500;2;2;false;false;male;30;65;true;incomplete higher;married;lower_value
+313;no;1129000;30600;39;fixed;apartment;0.9;80900;1;1;false;true;male;3;25;true;secondary;single;lower_value
+314;no;504700;11100;49;fixed;apartment;0.9;21400;1;1;false;false;male;2;24;true;academic degree;single;lower_value
+315;no;429500;25900;18;variable;house;0.6;93400;2;2;true;true;female;16;39;true;academic degree;married;higher_value
+316;no;938000;36200;28;variable;house;0.8;81000;1;1;false;false;male;13;38;true;academic degree;single;lower_value
+317;no;572000;41000;15;fixed;apartment;0.7;117500;0;1;true;false;male;25;44;true;academic degree;single;higher_value
+318;no;225000;8800;27;variable;house;0.3;22200;2;2;false;true;male;7;34;true;incomplete higher;widowed;lower_value
+319;no;221300;22000;10;fixed;house;0.4;90000;0;1;true;false;male;30;59;true;incomplete higher;married;higher_value
+320;no;1240000;26600;50;variable;house;0.6;79900;1;2;false;true;male;0;20;true;incomplete higher;married;lower_value
+321;no;553700;23400;25;variable;apartment;1;80200;2;1;false;true;female;7;32;true;incomplete higher;single;lower_value
+322;yes;715000;21100;36;variable;house;0.4;61700;1;1;false;true;female;15;35;true;lower;single;lower_value
+323;no;832000;25700;34;variable;apartment;0.3;88200;0;1;true;true;male;9;32;true;incomplete higher;widowed;lower_value
+324;no;195100;17800;11;variable;house;0.2;77400;2;3;true;false;male;30;66;false;secondary;married;lower_value
+325;no;1137000;37600;32;fixed;apartment;0.8;115900;0;1;true;true;male;14;37;true;incomplete higher;widowed;higher_value
+326;no;642000;28700;23;fixed;apartment;0.8;68100;1;1;true;false;male;20;41;true;secondary;married;lower_value
+327;no;664000;26500;26;fixed;apartment;0.6;89700;1;1;true;false;female;21;44;true;academic degree;married;lower_value
+328;no;388000;11700;35;variable;apartment;0.9;63100;0;1;true;false;male;0;22;true;academic degree;single;lower_value
+329;no;540600;23500;25;fixed;house;0.9;71700;1;2;true;true;male;20;40;true;academic degree;married;lower_value
+330;no;816000;19600;42;variable;house;0.8;50000;2;1;true;false;male;0;25;false;incomplete higher;married;lower_value
+331;yes;282000;27300;11;fixed;apartment;0.7;65600;1;1;false;false;female;30;79;false;lower secondary;married;lower_value
+332;no;128000;13800;9;variable;apartment;0.1;36100;1;1;true;true;female;30;80;false;incomplete higher;widowed;lower_value
+333;no;228000;26100;9;fixed;apartment;0.5;72400;1;2;true;false;male;30;74;false;academic degree;married;lower_value
+334;no;198400;25300;8;variable;apartment;0.2;49900;1;1;true;true;female;29;52;true;secondary;widowed;lower_value
+335;no;228000;19700;13;variable;apartment;0.5;81900;0;1;true;false;male;30;56;true;academic degree;married;lower_value
+336;no;462200;13200;36;fixed;house;1;51000;2;3;true;true;female;12;34;false;academic degree;single;lower_value
+337;no;152000;6000;26;variable;house;0.2;21100;2;1;false;true;male;21;44;true;secondary;married;lower_value
+338;no;302000;28800;11;variable;apartment;0.4;109000;2;3;true;false;male;27;52;true;secondary;married;higher_value
+339;yes;227000;17000;14;variable;house;0.3;50000;1;1;false;false;male;25;55;true;secondary;divorced;lower_value
+340;no;557000;24300;24;fixed;apartment;0.7;90900;1;2;true;false;female;12;36;true;academic degree;divorced;higher_value
+341;no;966800;21900;49;fixed;house;0.4;43700;2;2;false;true;male;0;22;true;secondary;single;lower_value
+342;no;81000;11100;8;variable;house;0.1;22500;2;1;false;false;female;30;59;true;secondary;divorced;lower_value
+343;no;896000;20200;46;fixed;apartment;0.5;72700;2;2;false;true;male;0;20;true;lower;single;lower_value
+344;no;591000;25400;25;fixed;house;0.6;79800;2;3;true;true;male;15;40;true;incomplete higher;widowed;lower_value
+345;no;266000;13900;21;fixed;apartment;0.5;39100;2;1;true;false;male;21;42;false;secondary;married;lower_value
+346;no;961400;23300;42;variable;house;0.1;49000;1;1;false;false;male;0;21;false;lower secondary;single;lower_value
+347;yes;1184000;39600;32;fixed;house;0.6;72000;2;2;true;true;female;7;32;true;incomplete higher;divorced;lower_value
+348;no;788000;33800;26;fixed;apartment;1;118300;1;2;true;true;male;18;41;true;secondary;single;higher_value
+349;no;312000;12000;26;fixed;house;0.5;44100;2;3;false;false;male;17;40;false;academic degree;married;lower_value
+350;no;142800;19400;8;fixed;apartment;0.4;37900;3;2;true;true;male;30;59;false;lower;married;lower_value
+351;no;204000;20800;11;fixed;apartment;0.7;59800;2;2;true;true;male;26;49;true;incomplete higher;single;lower_value
+352;no;100000;9700;11;variable;house;0.4;28600;2;2;true;true;female;30;61;true;secondary;married;lower_value
+353;no;615800;61700;10;variable;house;0.2;115300;2;1;false;true;male;30;55;true;secondary;single;higher_value
+354;no;577000;24000;25;fixed;house;0.2;98200;0;1;true;true;male;17;41;true;secondary;married;higher_value
+355;yes;1097600;53600;22;fixed;house;0.5;90100;2;2;false;false;female;29;47;true;incomplete higher;divorced;higher_value
+356;yes;293000;9700;30;variable;house;0.1;31100;3;3;false;false;female;17;36;false;lower;married;lower_value
+357;no;1822000;55500;33;variable;apartment;1;148000;0;1;true;true;male;8;28;true;incomplete higher;married;higher_value
+358;no;467000;13800;37;fixed;apartment;0.5;44200;2;2;true;true;male;0;21;true;lower;married;lower_value
+359;no;1475000;33800;48;variable;house;0.3;110000;1;2;true;false;female;0;21;true;incomplete higher;single;higher_value
+360;no;63000;9200;7;fixed;apartment;0.1;26400;3;3;true;false;female;30;73;false;academic degree;married;lower_value
+361;no;694000;21800;33;fixed;house;0.5;67200;1;2;true;true;male;11;35;true;academic degree;widowed;lower_value
+362;yes;137300;11600;13;fixed;house;0.3;23000;3;3;true;false;male;30;68;false;lower secondary;divorced;lower_value
+363;no;1057000;40000;28;fixed;apartment;1;116300;2;3;true;true;male;19;41;true;academic degree;divorced;higher_value
+364;no;1563000;44000;37;fixed;house;1;88200;2;2;false;true;male;0;22;true;academic degree;single;lower_value
+365;no;348000;21800;17;fixed;house;0.5;69000;1;1;true;false;female;30;51;true;lower;married;lower_value
+366;no;1005000;35200;31;fixed;apartment;0.6;107000;0;1;false;true;male;15;37;true;incomplete higher;single;higher_value
+367;no;128000;10000;13;variable;apartment;0.1;37300;3;3;true;false;male;30;59;true;academic degree;married;lower_value
+368;no;676000;18300;41;fixed;apartment;0.4;70400;1;2;false;false;female;0;22;true;lower;married;lower_value
+369;no;416000;18200;24;variable;apartment;1;48500;2;2;true;true;male;19;42;true;incomplete higher;married;lower_value
+370;no;1124000;31900;37;variable;apartment;1;70800;2;1;true;false;male;8;29;true;lower;single;lower_value
+371;no;759700;22200;34;fixed;apartment;0.5;91400;2;3;false;false;male;3;26;true;incomplete higher;married;higher_value
+372;no;910000;26600;38;fixed;house;0.2;71500;2;1;false;false;female;5;28;true;lower;single;lower_value
+373;no;40300;8100;5;variable;house;0.3;27000;2;2;true;true;male;30;79;false;lower;widowed;lower_value
+374;no;787000;20200;39;fixed;house;0.1;74200;1;1;false;true;male;2;31;true;incomplete higher;divorced;lower_value
+375;yes;1181000;26600;45;fixed;apartment;0.1;49000;1;1;true;true;male;2;24;true;lower secondary;divorced;lower_value
+376;yes;287000;10100;32;variable;house;0.6;23000;1;1;true;true;female;15;35;true;lower secondary;divorced;lower_value
+377;yes;854600;21900;39;fixed;apartment;0.6;65800;2;3;false;false;male;2;26;true;lower secondary;divorced;lower_value
+378;no;201000;16000;13;fixed;house;0.2;42800;1;1;true;false;female;26;49;true;secondary;single;lower_value
+379;no;431000;11600;41;variable;apartment;0.5;41800;2;2;true;false;male;0;20;true;lower;married;lower_value
+380;no;301900;10500;29;fixed;house;0.4;39300;2;3;false;true;female;14;39;false;incomplete higher;married;lower_value
+381;no;153000;10800;15;variable;house;0.2;41900;1;2;true;true;male;30;74;false;academic degree;married;lower_value
+382;no;599000;19300;32;fixed;house;0.9;77500;1;2;true;true;female;14;33;true;incomplete higher;married;lower_value
+383;no;693200;41600;18;variable;house;0.9;87700;1;1;true;false;female;26;47;true;incomplete higher;widowed;lower_value
+384;no;464000;25600;20;variable;house;0.6;90500;0;1;true;true;female;28;48;true;lower secondary;married;higher_value
+385;no;454000;18400;25;variable;house;1;70700;1;1;false;false;female;18;40;true;academic degree;single;lower_value
+386;no;21000;4400;5;fixed;apartment;0.2;17000;2;1;true;true;male;30;73;false;secondary;single;lower_value
+387;no;367300;18000;21;fixed;house;0.7;44800;1;1;true;true;male;21;47;true;incomplete higher;widowed;lower_value
+388;no;278000;23600;12;fixed;house;0.7;68100;1;2;true;false;female;30;57;true;academic degree;divorced;lower_value
+389;no;215800;7400;31;variable;apartment;0.2;49300;0;1;true;false;male;5;29;true;academic degree;divorced;lower_value
+390;no;305000;30200;11;fixed;house;0.5;103500;2;3;true;true;male;30;52;true;academic degree;single;higher_value
+391;no;790000;37300;21;variable;house;1;85300;1;1;true;true;male;26;49;true;academic degree;divorced;lower_value
+392;no;152000;5800;28;fixed;house;0.2;16100;1;1;true;true;male;13;35;true;incomplete higher;divorced;lower_value
+393;no;36000;5800;7;fixed;apartment;0.2;16800;1;1;false;false;male;30;67;false;lower secondary;single;lower_value
+394;no;200000;44200;5;fixed;house;0.5;145900;0;1;false;false;male;30;67;true;lower secondary;widowed;higher_value
+395;no;335000;13200;26;fixed;apartment;0.6;48300;2;3;true;false;male;9;35;false;lower;widowed;lower_value
+396;no;71000;7000;11;variable;apartment;0.2;27200;2;2;true;true;male;30;57;true;academic degree;divorced;lower_value
+397;no;276000;28800;10;fixed;house;0.4;58500;2;2;false;true;male;27;52;true;secondary;single;lower_value
+398;no;800000;33600;25;fixed;house;0.7;104300;1;2;true;true;male;15;38;true;academic degree;single;higher_value
+399;no;720000;28300;26;fixed;house;0.1;99200;1;2;false;true;male;14;36;true;lower secondary;divorced;higher_value
+400;yes;522000;18400;30;variable;house;0.6;52600;2;1;false;false;male;8;33;true;lower secondary;single;lower_value
+401;no;1101000;31500;36;variable;apartment;0.4;70000;2;2;true;false;male;6;28;true;lower secondary;married;lower_value
+402;yes;383700;11000;35;variable;apartment;0.1;26000;1;1;true;false;male;14;34;true;academic degree;single;lower_value
+403;no;328000;10700;31;variable;house;0.2;55500;2;3;true;false;male;11;36;true;academic degree;married;lower_value
+404;no;216000;14700;15;variable;apartment;0.5;67400;2;3;true;true;male;30;74;false;lower secondary;single;lower_value
+405;no;497000;24100;21;fixed;apartment;0.5;85100;2;2;true;true;male;30;53;true;incomplete higher;divorced;lower_value
+406;no;286000;18100;16;fixed;apartment;0.4;59800;2;1;true;false;female;30;65;true;secondary;single;lower_value
+407;no;157000;9400;17;variable;house;0.3;20800;2;2;true;true;male;30;55;false;academic degree;divorced;lower_value
+408;no;555000;17000;36;fixed;house;0.5;45200;2;1;true;true;female;3;28;true;academic degree;married;lower_value
+409;no;515000;27400;19;variable;house;0.5;95200;2;1;true;true;female;18;45;true;academic degree;divorced;higher_value
+410;no;208000;23400;9;fixed;house;0.7;58500;1;1;true;false;male;30;68;false;academic degree;single;lower_value
+411;no;222000;11500;19;fixed;house;0.4;44800;1;1;true;false;male;26;50;true;academic degree;single;lower_value
+412;no;238000;17200;14;variable;house;0.7;50100;3;2;false;true;female;26;52;true;lower;married;lower_value
+413;no;706000;24700;29;fixed;apartment;0.8;71700;2;3;true;true;male;16;39;true;secondary;single;lower_value
+414;no;259000;16000;16;fixed;house;0.6;39700;2;1;true;false;female;27;52;false;incomplete higher;married;lower_value
+415;no;328100;10600;34;variable;house;0.7;20700;2;2;true;true;male;6;26;true;incomplete higher;married;lower_value
+416;no;177000;15500;12;fixed;apartment;0.3;66200;1;2;false;false;female;18;42;true;incomplete higher;single;lower_value
+417;no;687000;23500;32;variable;house;1;99200;1;2;true;true;male;11;32;true;incomplete higher;widowed;higher_value
+418;no;979900;25800;42;variable;apartment;0.8;65700;1;1;false;true;female;7;25;true;academic degree;married;lower_value
+419;no;405000;14400;30;variable;apartment;1;82400;0;1;true;true;female;20;43;true;secondary;married;lower_value
+420;no;779000;23700;36;variable;apartment;0.1;80500;1;1;true;true;male;3;26;true;incomplete higher;married;lower_value
+421;yes;137300;9600;15;variable;house;0.3;27800;3;3;false;false;male;25;51;true;academic degree;widowed;lower_value
+422;no;921000;20600;47;variable;apartment;0.5;73200;3;4;true;true;male;0;20;true;lower secondary;married;lower_value
+423;no;1793000;42800;42;variable;apartment;1;105100;2;1;false;true;female;8;28;true;incomplete higher;married;higher_value
+424;no;221000;8500;28;fixed;house;0.2;26600;1;1;true;false;female;14;39;true;incomplete higher;married;lower_value
+425;yes;535000;30500;19;variable;apartment;0.1;90300;0;1;false;false;female;20;46;true;lower;married;higher_value
+426;no;184000;17400;11;fixed;house;0.1;62800;2;1;true;true;male;30;73;false;incomplete higher;widowed;lower_value
+427;no;406000;25300;17;variable;apartment;1;73100;1;2;true;false;male;30;55;true;academic degree;widowed;lower_value
+428;no;459000;15200;32;variable;house;0.8;56900;1;1;true;true;male;4;32;true;secondary;single;lower_value
+429;no;248500;17200;15;variable;apartment;0.7;50900;1;1;true;false;male;30;66;true;secondary;divorced;lower_value
+430;no;262000;9500;28;fixed;house;0.1;20000;1;1;true;true;male;19;42;true;lower;single;lower_value
+431;no;1341000;44200;32;fixed;apartment;0.6;135700;0;1;true;true;male;7;29;true;lower secondary;married;higher_value
+432;no;801000;34600;25;variable;house;0.1;150700;0;1;false;true;female;17;43;true;lower;divorced;higher_value
+433;no;471000;26900;19;variable;house;0.4;66600;2;2;false;true;male;26;47;true;lower secondary;single;lower_value
+434;no;984300;29100;36;fixed;house;0.9;59500;1;1;true;true;female;12;31;true;incomplete higher;single;lower_value
+435;no;756000;19200;43;variable;house;0.7;42000;1;1;false;true;female;0;22;true;incomplete higher;single;lower_value
+436;no;799000;25200;33;fixed;apartment;0.7;113500;0;1;true;false;male;10;34;true;lower secondary;divorced;higher_value
+437;no;307000;7300;42;variable;apartment;0.5;48600;2;3;true;true;male;0;21;true;lower;single;lower_value
+438;no;94800;10000;10;variable;house;0.4;25900;1;1;true;true;male;30;59;true;lower;single;lower_value
+439;yes;237000;7500;33;fixed;house;0.4;22300;2;2;false;false;male;10;29;true;lower secondary;single;lower_value
+440;no;29000;6400;5;fixed;apartment;0.3;21100;1;1;true;true;male;30;71;false;academic degree;single;lower_value
+441;no;340100;7200;48;variable;house;0.5;44900;1;2;true;true;male;1;20;true;incomplete higher;married;lower_value
+442;yes;865000;24400;39;fixed;house;0.7;79900;2;1;true;false;female;4;28;true;secondary;single;lower_value
+443;no;1611000;35700;50;fixed;house;0.7;83200;1;1;true;false;male;0;21;true;lower;single;lower_value
+444;no;295000;21000;15;fixed;apartment;0.6;55500;1;1;true;false;female;22;48;true;secondary;married;lower_value
+445;no;541000;20500;28;fixed;apartment;0.3;46500;1;1;true;false;female;11;35;false;academic degree;divorced;lower_value
+446;no;826000;29000;32;variable;apartment;0.1;73800;1;1;true;false;male;15;37;true;academic degree;married;lower_value
+447;yes;125000;11400;11;variable;apartment;0.2;23100;3;3;true;false;female;24;49;true;secondary;divorced;lower_value
+448;no;648600;15400;44;variable;apartment;0.1;42800;1;1;false;false;female;0;21;true;secondary;single;lower_value
+449;no;456000;35400;14;variable;house;0.2;96600;1;2;true;true;female;30;50;true;academic degree;married;higher_value
+450;no;233000;20700;12;variable;apartment;0.6;67400;1;1;true;false;female;30;66;true;secondary;widowed;lower_value
+451;no;1461700;46800;32;fixed;apartment;0.8;110300;2;2;true;false;female;10;34;true;incomplete higher;widowed;higher_value
+452;no;492000;42200;12;variable;house;0.8;85100;2;1;true;true;male;30;53;true;lower;married;lower_value
+453;yes;254000;27900;9;fixed;house;0.2;66600;3;3;true;false;female;30;63;true;incomplete higher;single;lower_value
+454;no;643000;29800;22;fixed;house;0.9;96500;2;2;true;true;male;17;39;true;lower secondary;married;higher_value
+455;no;1293000;41200;33;variable;apartment;0.7;90000;1;1;true;true;male;5;31;true;incomplete higher;divorced;higher_value
+456;no;123200;4900;26;variable;apartment;0.3;36200;3;4;false;false;male;12;34;true;academic degree;married;lower_value
+457;no;133000;28000;5;variable;house;0.1;75100;2;1;false;true;male;30;58;true;secondary;married;lower_value
+458;no;590800;16200;38;variable;house;0.3;50800;2;1;true;false;female;6;32;true;secondary;single;lower_value
+459;no;364000;11100;34;fixed;apartment;1;34300;3;3;false;false;male;10;29;false;lower secondary;divorced;lower_value
+460;no;149000;6700;22;fixed;apartment;0.2;36600;2;3;false;false;male;9;36;false;secondary;single;lower_value
+461;no;1001000;24800;42;variable;apartment;0.3;59000;1;1;true;true;female;5;27;true;academic degree;widowed;lower_value
+462;no;528600;18000;31;fixed;house;0.4;65800;2;2;true;true;female;9;30;true;academic degree;divorced;lower_value
+463;no;856000;22200;39;fixed;house;1;105800;2;3;false;false;male;9;30;true;academic degree;single;higher_value
+464;no;548000;23200;25;fixed;house;0.8;85400;2;1;true;true;male;17;43;true;secondary;married;lower_value
+465;no;598400;17800;36;fixed;house;0.5;68400;0;1;true;true;male;6;32;true;incomplete higher;married;lower_value
+466;no;254000;7500;35;fixed;apartment;0.5;18700;1;1;true;true;female;15;40;true;incomplete higher;divorced;lower_value
+467;yes;109000;20400;5;variable;house;0.3;42800;4;3;false;false;female;30;56;true;secondary;divorced;lower_value
+468;no;479000;13400;39;fixed;house;0.7;62200;2;3;false;true;male;0;23;true;incomplete higher;married;lower_value
+469;no;641000;21300;33;fixed;house;0.8;71300;2;3;true;false;female;12;36;true;academic degree;single;lower_value
+470;no;924000;27600;34;variable;apartment;0.9;69400;1;1;false;false;male;3;26;true;academic degree;single;lower_value
+471;no;321000;42900;8;variable;house;0.3;116700;2;1;false;true;female;30;58;true;incomplete higher;married;higher_value
+472;no;329000;8000;45;fixed;house;0.7;29500;2;2;false;false;male;0;20;true;lower;married;lower_value
+473;no;360000;9000;43;variable;house;0.9;63700;0;1;true;false;male;0;21;true;secondary;single;lower_value
+474;yes;742000;29400;26;variable;house;0.5;84400;0;1;false;false;female;12;35;true;incomplete higher;married;lower_value
+475;no;569000;19500;31;fixed;house;0.6;71300;1;1;false;true;female;12;35;true;lower;single;lower_value
+476;no;535000;17600;33;fixed;house;0.6;52300;1;1;true;true;male;7;30;true;academic degree;divorced;lower_value
+477;no;1110000;29500;41;fixed;house;1;63600;1;1;true;true;male;0;27;true;academic degree;divorced;lower_value
+478;no;188000;30600;6;variable;apartment;0.1;99600;2;2;true;false;male;30;79;false;lower secondary;single;higher_value
+479;no;1229500;33100;38;fixed;house;0.5;79200;1;1;true;true;male;10;28;true;lower;divorced;lower_value
+480;no;348000;13800;26;fixed;apartment;0.5;29100;1;1;false;true;female;12;37;true;incomplete higher;married;lower_value
+481;no;1237000;37400;33;fixed;house;0.7;114400;1;1;true;true;male;5;28;true;lower;single;higher_value
+482;no;152000;13200;12;variable;apartment;0.3;47300;3;3;true;true;male;22;45;true;secondary;single;lower_value
+483;no;1216000;31700;38;variable;house;0.9;122600;1;1;false;true;male;5;28;true;secondary;married;higher_value
+484;no;187000;10900;18;variable;house;0.4;37000;1;1;false;false;female;26;50;true;academic degree;single;lower_value
+485;no;871000;25400;37;fixed;house;1;81000;1;2;false;true;male;9;30;true;lower secondary;widowed;lower_value
+486;no;353000;12400;31;fixed;apartment;0.5;58400;0;1;true;false;female;15;38;true;academic degree;married;lower_value
+487;no;759000;18700;42;variable;apartment;0.2;80800;2;3;true;false;male;2;23;true;academic degree;single;lower_value
+488;no;1835000;44300;42;variable;apartment;0.6;97500;3;3;false;false;male;6;30;true;incomplete higher;married;higher_value
+489;no;1423000;48600;30;fixed;house;0.5;103500;2;2;false;true;male;8;33;true;academic degree;single;higher_value
+490;no;331000;13000;26;variable;house;0.6;58100;2;3;false;true;female;9;36;true;academic degree;married;lower_value
+491;no;964000;28300;35;fixed;house;0.9;57800;1;1;false;true;female;9;33;true;incomplete higher;divorced;lower_value
+492;no;353200;14200;27;variable;apartment;0.6;64900;3;4;false;false;male;15;41;true;secondary;married;lower_value
+493;no;254000;7000;37;variable;house;0.1;16100;3;3;true;true;male;1;27;false;incomplete higher;divorced;lower_value
+494;no;545000;32800;18;fixed;apartment;1;99900;0;1;false;true;male;22;44;true;academic degree;married;higher_value
+495;no;434900;34800;13;fixed;house;0.2;68400;1;1;false;true;female;27;48;true;lower;divorced;lower_value
+496;no;1447000;36600;43;fixed;apartment;0.8;99000;2;3;true;true;female;0;23;true;academic degree;single;higher_value
+497;no;526000;17000;31;variable;house;0.5;62600;1;1;false;true;female;2;28;true;secondary;widowed;lower_value
+498;no;644000;16100;41;fixed;apartment;0.5;58400;1;1;true;false;male;11;34;true;incomplete higher;single;lower_value
+499;yes;488000;28300;18;fixed;house;0.4;74500;2;3;false;false;male;28;50;true;lower;single;lower_value
+500;no;994000;26000;40;fixed;apartment;0.5;71200;2;2;false;true;female;2;26;true;secondary;widowed;lower_value
+501;no;484000;28700;18;variable;apartment;0.5;87600;2;1;true;true;female;19;43;true;secondary;divorced;lower_value
+502;no;175000;13100;14;fixed;house;0.2;37700;2;1;false;true;male;30;62;true;lower secondary;married;lower_value
+503;no;577000;43500;15;fixed;house;1;102800;1;1;false;false;male;25;47;true;lower secondary;divorced;higher_value
+504;no;458000;19300;25;variable;apartment;1;72700;0;1;true;false;female;13;38;true;incomplete higher;married;lower_value
+505;no;383000;9900;42;fixed;house;0.7;31200;3;2;false;false;male;1;24;true;lower secondary;married;lower_value
+506;no;217000;6200;36;fixed;apartment;0.5;19800;1;1;false;false;male;5;32;true;incomplete higher;divorced;lower_value
+507;no;313000;24400;14;fixed;apartment;0.6;70900;1;1;true;false;male;25;48;true;academic degree;married;lower_value
+508;no;210000;6700;33;fixed;apartment;0.6;23600;2;2;true;true;female;3;27;false;incomplete higher;married;lower_value
+509;no;445000;20200;24;fixed;apartment;0.3;57300;3;3;false;true;female;14;37;true;secondary;single;lower_value
+510;no;1272000;36700;37;fixed;apartment;0.8;89400;1;1;false;true;male;5;27;true;incomplete higher;divorced;lower_value
+511;no;124000;4300;31;variable;apartment;0.1;16700;2;2;true;true;male;13;30;true;academic degree;divorced;lower_value
+512;no;169000;29700;6;fixed;house;0.4;64700;2;2;true;true;female;30;53;true;academic degree;married;lower_value
+513;no;71000;8000;10;variable;apartment;0.2;24400;1;1;true;false;male;30;59;true;academic degree;single;lower_value
+514;no;771700;30700;27;fixed;house;1;107600;1;1;true;false;male;8;35;true;incomplete higher;widowed;higher_value
+515;no;721000;25600;28;fixed;apartment;1;90400;0;1;true;false;female;19;41;true;incomplete higher;single;higher_value
+516;no;346000;10300;35;variable;apartment;0.5;25600;2;2;true;true;male;3;24;true;lower secondary;single;lower_value
+517;no;336000;29800;12;variable;house;0.2;83500;1;1;false;false;male;30;54;true;secondary;single;lower_value
+518;no;1033300;37200;29;fixed;apartment;0.7;77900;1;1;true;true;female;2;29;true;academic degree;married;lower_value
+519;no;98000;9400;11;fixed;apartment;0.3;22200;1;1;false;true;male;28;53;true;secondary;married;lower_value
+520;no;171100;23500;8;fixed;apartment;0.4;53000;2;1;true;true;male;30;70;false;academic degree;divorced;lower_value
+521;no;869000;33800;26;fixed;apartment;1;98500;1;2;true;true;male;10;37;true;incomplete higher;single;higher_value
+522;no;483000;37900;14;fixed;house;1;82900;2;2;true;false;male;30;55;true;lower;married;lower_value
+523;no;171000;35700;5;fixed;house;0.2;87400;1;1;true;false;male;30;66;true;academic degree;married;lower_value
+524;no;973000;36200;28;variable;house;0.5;97700;2;2;true;true;male;8;34;true;academic degree;widowed;higher_value
+525;no;460000;16700;30;fixed;house;0.3;68800;2;3;true;true;female;9;33;false;academic degree;single;lower_value
+526;no;551000;16100;36;variable;house;0.2;39100;2;2;true;false;male;14;33;true;incomplete higher;single;lower_value
+527;no;297000;14800;21;fixed;apartment;0.1;38100;1;1;true;false;male;23;46;true;lower secondary;widowed;lower_value
+528;no;299000;28300;11;fixed;apartment;0.6;81900;2;1;true;true;female;30;55;true;lower secondary;married;lower_value
+529;no;195000;7000;28;variable;apartment;0.1;22300;2;2;true;false;male;17;39;true;secondary;married;lower_value
+530;no;823000;21500;40;fixed;house;0.6;75900;1;1;true;true;male;7;26;true;academic degree;divorced;lower_value
+531;yes;97000;8500;12;variable;apartment;0.2;21100;1;1;true;true;female;30;77;false;lower secondary;married;lower_value
+532;no;194000;17700;11;fixed;house;0.3;76800;1;2;false;true;male;30;57;true;incomplete higher;single;lower_value
+533;no;110100;11900;10;variable;apartment;0.3;25600;1;1;true;true;male;30;65;true;academic degree;widowed;lower_value
+534;no;620000;23700;28;variable;apartment;0.8;61700;2;2;false;false;male;20;41;true;lower secondary;divorced;lower_value
+535;no;129000;11500;12;fixed;apartment;0.3;33600;2;1;true;true;female;26;49;true;incomplete higher;married;lower_value
+536;no;261000;22100;12;variable;house;0.3;48900;2;2;false;true;male;29;51;true;lower secondary;married;lower_value
+537;no;410000;13200;33;fixed;house;0.7;46300;2;2;false;true;male;11;35;true;lower secondary;divorced;lower_value
+538;no;657300;34300;21;variable;house;0.4;71700;1;1;false;true;male;25;48;true;academic degree;divorced;lower_value
+539;no;203000;7300;31;variable;apartment;0.6;19700;1;1;true;true;male;17;38;true;lower;married;lower_value
+540;no;230000;8300;29;variable;apartment;0.1;23700;2;2;false;false;male;15;37;false;secondary;married;lower_value
+541;no;517000;19100;28;variable;house;0.6;61000;1;2;true;true;female;8;31;true;academic degree;married;lower_value
+542;no;836000;34200;25;fixed;house;1;70900;1;1;true;false;female;15;38;true;secondary;single;lower_value
+543;no;2123000;48200;45;fixed;apartment;0.7;138800;1;2;true;false;male;2;21;true;incomplete higher;married;higher_value
+544;no;426000;29600;16;fixed;apartment;0.1;72200;1;1;true;true;male;25;47;true;lower;widowed;lower_value
+545;no;1250000;36400;35;variable;house;0.2;108900;2;2;true;true;male;6;30;true;academic degree;single;higher_value
+546;no;545000;19400;29;fixed;house;0.7;65900;1;1;true;false;male;8;33;true;academic degree;single;lower_value
+547;no;153000;9100;17;fixed;apartment;0.3;48400;0;1;false;true;female;27;46;true;academic degree;married;lower_value
+548;yes;154000;12000;14;fixed;apartment;0.2;55300;1;2;false;false;female;16;41;true;secondary;married;lower_value
+549;no;773900;25700;33;fixed;apartment;0.5;53200;2;2;true;false;male;8;32;true;incomplete higher;single;lower_value
+550;yes;1176000;33000;37;variable;house;0.1;61400;2;2;false;false;male;11;34;true;secondary;divorced;lower_value
+551;yes;331000;9600;37;variable;apartment;0.6;29700;3;3;true;false;female;7;27;true;incomplete higher;divorced;lower_value
+552;yes;868000;22800;40;fixed;house;0.5;41800;1;1;false;false;male;4;28;true;lower;married;lower_value
+553;no;923200;28600;35;variable;house;0.7;68300;1;1;false;true;male;7;28;true;academic degree;divorced;lower_value
+554;no;775000;22700;36;fixed;apartment;0.8;54700;2;1;false;true;male;9;31;true;secondary;married;lower_value
+555;no;332000;32400;10;fixed;apartment;0.6;74400;2;2;true;false;female;30;53;true;incomplete higher;widowed;lower_value
+556;no;1413000;37700;39;fixed;house;0.3;83000;2;2;true;false;male;0;22;true;incomplete higher;single;lower_value
+557;no;281000;8700;33;variable;apartment;0.7;20300;2;2;true;false;male;9;33;true;incomplete higher;married;lower_value
+558;no;1171000;29200;43;variable;house;0.7;71800;2;2;true;false;male;4;22;true;secondary;single;lower_value
+559;no;893000;26500;36;variable;apartment;0.1;97700;1;1;false;true;male;2;24;true;secondary;single;higher_value
+560;no;1783000;43000;46;fixed;house;0.5;96800;1;1;false;true;male;0;20;true;incomplete higher;single;higher_value
+561;no;278000;9700;31;variable;house;0.3;34900;3;3;true;false;male;13;34;true;lower;divorced;lower_value
+562;no;484000;12100;43;variable;house;1;54100;2;3;false;true;female;0;21;true;lower;married;lower_value
+563;no;872000;32900;28;variable;apartment;0.3;81600;1;1;false;true;female;17;39;true;lower secondary;single;lower_value
+564;no;335000;10700;34;variable;apartment;0.5;43900;1;2;true;true;female;6;29;true;incomplete higher;married;lower_value
+565;no;661600;36200;19;variable;apartment;0.8;66700;2;2;true;false;male;23;46;true;lower secondary;widowed;lower_value
+566;no;406000;12100;37;variable;apartment;0.8;60100;1;2;false;false;female;13;34;true;secondary;divorced;lower_value
+567;no;1047000;23600;45;fixed;house;0.2;103800;0;1;false;true;male;4;26;true;lower;widowed;higher_value
+568;no;618000;22000;30;fixed;apartment;0.4;58100;3;3;true;true;male;16;39;true;academic degree;widowed;lower_value
+569;no;699000;37900;19;fixed;apartment;0.6;85100;2;2;false;true;female;25;51;true;lower secondary;single;lower_value
+570;no;991000;38700;28;variable;apartment;0.5;81300;2;1;false;false;male;15;34;true;secondary;divorced;lower_value
+571;no;622400;27300;24;fixed;house;0.7;67800;2;1;false;true;male;15;37;true;academic degree;widowed;lower_value
+572;no;331400;10700;31;fixed;apartment;0.5;31100;1;1;true;true;male;15;39;true;incomplete higher;single;lower_value
+573;no;1305000;32500;43;fixed;house;0.8;74700;2;2;true;true;male;3;25;true;lower secondary;single;lower_value
+574;no;806000;18800;47;fixed;house;0.4;59100;2;1;false;false;male;0;24;true;incomplete higher;single;lower_value
+575;no;1012600;25200;42;fixed;house;1;55000;1;1;true;true;male;0;24;true;academic degree;single;lower_value
+576;no;469000;19400;26;variable;house;0.6;66400;2;3;true;true;male;14;36;true;lower;divorced;lower_value
+577;no;393000;9000;46;fixed;house;0.5;26300;1;1;true;true;female;0;23;true;incomplete higher;single;lower_value
+578;no;290000;21300;14;fixed;house;0.7;63400;1;1;true;true;male;27;52;true;lower;married;lower_value
+579;no;923000;23100;40;fixed;house;0.7;101900;1;2;false;true;female;3;25;true;academic degree;single;higher_value
+580;no;657000;47600;15;fixed;apartment;0.6;96000;1;1;false;true;female;30;55;true;secondary;single;higher_value
+581;no;565000;19700;30;variable;house;0.6;104200;0;1;false;false;male;11;33;true;secondary;single;higher_value
+582;no;370000;10100;38;fixed;apartment;0.1;22400;1;1;true;false;female;9;32;false;secondary;single;lower_value
+583;no;191000;20200;10;variable;house;0.2;78700;2;2;true;true;female;30;60;true;lower;married;lower_value
+584;no;407000;13300;34;fixed;apartment;0.5;82500;0;1;false;true;male;7;27;true;lower;divorced;lower_value
+585;no;469000;22000;23;variable;house;0.6;74000;2;1;true;true;female;15;41;true;incomplete higher;married;lower_value
+586;no;637000;34300;20;variable;apartment;0.2;69700;3;3;true;true;male;20;39;true;secondary;single;lower_value
+587;no;489400;12500;42;fixed;apartment;0.4;43700;1;1;false;false;male;6;26;true;lower;married;lower_value
+588;no;962000;22300;46;variable;house;1;82600;0;1;true;false;female;0;21;true;incomplete higher;single;lower_value
+589;no;295400;19500;16;fixed;house;0.7;79400;2;3;false;true;male;26;51;true;lower;married;lower_value
+590;no;152000;6400;24;fixed;house;0.3;19300;2;2;false;true;male;20;44;true;incomplete higher;single;lower_value
+591;no;680000;15600;47;variable;house;0.5;57600;1;1;true;true;male;4;27;true;lower secondary;married;lower_value
+592;no;1630000;43200;38;variable;apartment;0.8;94800;2;2;true;true;male;9;33;true;incomplete higher;single;higher_value
+593;no;997000;27600;37;variable;apartment;1;104200;3;4;true;true;female;6;28;true;secondary;single;higher_value
+594;no;188000;27900;7;variable;apartment;0.4;138500;0;1;false;false;male;30;69;false;lower secondary;single;higher_value
+595;no;529000;22500;25;fixed;house;0.7;63600;1;1;true;true;female;18;39;true;academic degree;single;lower_value
+596;no;436000;12700;36;variable;apartment;0.6;40300;3;3;true;true;male;2;26;true;lower secondary;single;lower_value
+597;no;655000;20600;34;fixed;apartment;0.8;59300;1;1;false;true;male;6;31;true;lower secondary;single;lower_value
+598;no;1288000;36000;39;variable;house;1;74700;1;1;false;true;female;0;22;true;lower secondary;single;lower_value
+599;no;597300;18200;35;fixed;house;0.7;37300;2;2;false;true;male;12;32;true;secondary;married;lower_value
+600;no;215000;5900;40;fixed;house;0.4;20000;1;1;true;true;female;7;30;true;lower secondary;married;lower_value
+601;no;621000;21600;30;fixed;apartment;1;86700;1;2;false;false;male;14;36;true;incomplete higher;married;lower_value
+602;no;386000;16900;25;variable;apartment;0.7;46700;2;2;true;true;male;23;43;true;academic degree;divorced;lower_value
+603;no;789000;26700;31;variable;house;1;61700;1;1;false;true;female;7;33;true;academic degree;married;lower_value
+604;no;431000;11100;41;variable;house;1;34900;1;1;true;true;female;4;26;true;academic degree;single;lower_value
+605;no;865000;23800;39;variable;house;1;87800;3;4;true;true;male;8;30;true;academic degree;married;lower_value
+606;no;683400;23900;29;fixed;house;1;57000;2;1;true;true;female;12;34;true;academic degree;divorced;lower_value
+607;no;240000;5200;49;fixed;house;0.6;17900;2;1;true;false;male;2;25;true;lower;married;lower_value
+608;no;440000;17100;27;variable;house;0.7;61400;1;1;true;false;male;11;34;true;academic degree;married;lower_value
+609;no;836000;25500;34;variable;house;0.4;69200;2;3;true;true;female;12;37;true;academic degree;single;lower_value
+610;no;572000;15800;40;variable;house;0.3;39000;2;1;true;true;male;9;32;true;lower;married;lower_value
+611;no;282000;8400;35;variable;house;0.6;22800;1;1;true;true;female;4;29;true;academic degree;single;lower_value
+612;no;780000;28600;28;fixed;apartment;0.9;99600;1;1;true;false;female;16;42;true;academic degree;widowed;higher_value
+613;no;774000;25100;33;fixed;apartment;0.1;85800;2;1;false;true;male;9;35;true;secondary;single;lower_value
+614;no;930000;23800;40;fixed;house;0.1;75800;2;2;false;true;female;4;25;true;lower secondary;single;lower_value
+615;no;203000;24500;9;variable;apartment;0.5;49400;1;1;true;false;male;30;76;false;incomplete higher;divorced;lower_value
+616;no;464300;16500;31;variable;apartment;0.2;34500;2;2;true;true;female;14;37;false;academic degree;widowed;lower_value
+617;yes;580000;13000;46;fixed;house;0.2;30800;2;2;false;false;male;8;31;true;lower secondary;widowed;lower_value
+618;no;196000;7800;26;variable;house;0.1;43900;3;4;false;false;male;11;33;true;academic degree;married;lower_value
+619;no;268000;19100;14;fixed;apartment;0.6;67400;2;1;false;true;male;23;47;true;academic degree;single;lower_value
+620;yes;763000;25000;32;fixed;house;0.9;66800;2;3;false;true;female;10;31;true;lower secondary;widowed;lower_value
+621;no;71000;15500;5;variable;house;0.3;70100;0;1;true;true;male;30;65;true;academic degree;married;lower_value
+622;no;193000;17500;12;fixed;apartment;0.4;64200;2;2;true;true;male;30;53;true;lower secondary;single;lower_value
+623;no;806000;25000;35;fixed;house;1;54800;2;2;true;true;male;5;30;true;lower secondary;widowed;lower_value
+624;no;317000;21300;15;variable;house;0.7;85600;1;2;false;false;male;27;48;true;academic degree;divorced;lower_value
+625;no;390000;12000;34;variable;apartment;1;40900;2;1;true;true;male;7;29;true;lower secondary;widowed;lower_value
+626;no;352000;23200;17;fixed;house;0.1;56800;1;1;true;true;male;24;45;true;academic degree;married;lower_value
+627;no;1487800;43900;37;variable;apartment;1;124500;0;1;true;true;female;6;31;true;lower secondary;widowed;higher_value
+628;no;1089000;31100;35;fixed;apartment;1;93600;0;1;false;true;male;9;32;true;lower secondary;married;higher_value
+629;no;641000;26800;26;fixed;house;0.1;88800;1;1;true;false;female;10;30;true;lower secondary;widowed;lower_value
+630;yes;1220000;34900;35;fixed;house;0.5;64500;2;2;true;false;male;13;34;true;secondary;single;lower_value
+631;no;836000;24100;35;fixed;apartment;1;72300;1;2;true;true;male;2;24;true;incomplete higher;married;lower_value
+632;no;143000;30000;5;variable;house;0.2;64000;2;2;true;true;male;30;54;true;secondary;divorced;lower_value
+633;yes;851000;42100;22;variable;apartment;0.6;103500;3;3;true;false;male;28;48;true;academic degree;married;higher_value
+634;no;316000;9200;36;variable;house;0.2;53900;1;2;true;true;male;0;23;false;lower secondary;married;lower_value
+635;no;407000;12400;33;fixed;house;0.1;46000;2;3;true;false;male;8;31;true;secondary;widowed;lower_value
+636;no;235000;33300;8;fixed;house;0.5;108800;2;2;true;true;female;30;58;true;secondary;single;higher_value
+637;no;1159000;40500;29;variable;house;0.3;87500;1;1;true;true;male;17;38;true;academic degree;married;lower_value
+638;no;342000;13100;27;fixed;apartment;0.7;29100;1;1;true;false;male;15;35;true;secondary;divorced;lower_value
+639;no;239800;18900;13;fixed;apartment;0.1;97600;0;1;false;true;male;29;52;true;lower secondary;married;higher_value
+640;no;451000;18800;27;variable;house;0.4;42600;2;2;true;true;male;19;43;false;academic degree;married;lower_value
+641;no;447000;12800;37;fixed;house;0.5;47900;2;3;true;false;male;0;24;true;incomplete higher;married;lower_value
+642;no;414000;14000;31;fixed;apartment;0.6;34700;1;1;true;true;female;11;37;true;incomplete higher;widowed;lower_value
+643;no;1087800;28000;39;fixed;apartment;0.5;72900;1;1;true;true;female;4;26;true;secondary;divorced;lower_value
+644;yes;496000;22600;22;variable;apartment;0.3;71000;2;2;false;false;male;24;43;true;secondary;married;lower_value
+645;yes;313000;15900;22;variable;house;0.5;37300;1;1;false;false;female;17;39;true;lower secondary;divorced;lower_value
+646;no;310000;20000;17;variable;house;0.4;91000;2;3;false;false;female;27;48;true;incomplete higher;single;higher_value
+647;no;117000;8200;15;variable;apartment;0.3;30700;1;1;true;false;female;25;47;false;secondary;divorced;lower_value
+648;no;452000;17200;28;fixed;house;0.4;60000;2;2;true;false;female;13;38;true;lower secondary;single;lower_value
+649;no;301000;9500;32;fixed;apartment;0.2;59600;0;1;true;true;female;11;35;true;academic degree;married;lower_value
+650;no;194000;26000;8;variable;house;0.3;67100;1;1;false;true;female;30;62;true;secondary;married;lower_value
+651;no;333000;14400;24;fixed;house;0.3;36600;1;1;true;false;male;27;50;false;academic degree;single;lower_value
+652;no;242000;6100;44;variable;apartment;0.6;19700;2;2;true;false;male;0;25;true;lower secondary;single;lower_value
+653;no;565700;15600;38;fixed;apartment;0.7;33300;1;1;true;false;male;8;29;true;academic degree;divorced;lower_value
+654;no;269000;8800;33;variable;house;0.4;33100;1;1;false;false;male;3;29;true;lower secondary;divorced;lower_value
+655;no;1141000;30300;40;variable;apartment;0.6;100800;1;1;true;false;male;2;24;true;lower secondary;married;higher_value
+656;no;426200;17800;26;fixed;apartment;0.6;49100;2;2;true;true;male;17;38;false;lower secondary;married;lower_value
+657;no;659000;36300;19;fixed;apartment;0.8;80700;1;1;true;false;female;24;49;true;secondary;divorced;lower_value
+658;no;1619000;46400;35;variable;apartment;0.8;123200;1;2;true;true;male;8;30;true;secondary;single;higher_value
+659;no;653000;19000;35;variable;house;0.9;58000;1;1;true;false;female;7;32;true;academic degree;single;lower_value
+660;no;1346000;45400;32;fixed;apartment;0.5;93100;1;1;true;true;male;11;32;true;secondary;single;higher_value
+661;no;562400;40700;14;fixed;apartment;1;107700;3;3;false;true;male;30;48;true;incomplete higher;single;higher_value
+662;no;303000;27400;12;fixed;apartment;0.5;55600;2;2;true;false;female;27;49;true;lower secondary;married;lower_value
+663;no;922000;24900;41;variable;apartment;0.9;108600;0;1;true;false;male;7;31;true;incomplete higher;single;higher_value
+664;yes;162000;17100;10;fixed;house;0.1;74500;0;1;false;true;female;30;51;true;lower secondary;single;lower_value
+665;no;289000;13400;22;variable;house;0.7;42600;1;1;true;true;male;24;48;true;academic degree;married;lower_value
+666;no;361000;10700;35;variable;house;0.8;28100;2;2;true;true;female;3;31;true;lower;married;lower_value
+667;no;69000;15000;5;variable;apartment;0.2;32100;1;1;true;false;male;30;75;false;academic degree;single;lower_value
+668;no;608200;22800;28;fixed;house;0.8;82800;2;1;true;true;male;11;33;true;academic degree;single;lower_value
+669;no;766000;22800;34;fixed;apartment;0.6;83600;2;3;false;false;male;9;31;true;secondary;single;lower_value
+670;no;407700;9000;46;fixed;apartment;1;28100;2;2;false;true;male;2;25;true;academic degree;single;lower_value
+671;no;800000;20500;39;variable;apartment;1;52500;3;3;true;true;female;0;21;true;lower secondary;single;lower_value
+672;no;770600;41100;20;fixed;house;0.2;101100;2;3;true;true;male;21;44;true;lower;married;higher_value
+673;no;607000;25500;25;variable;apartment;0.9;75300;1;2;true;true;female;12;37;true;lower;single;lower_value
+674;yes;141000;23800;6;fixed;apartment;0.2;82100;2;3;false;false;female;30;55;true;lower secondary;divorced;lower_value
+675;no;298000;7900;41;variable;house;0.7;44600;1;2;true;true;male;0;23;true;academic degree;single;lower_value
+676;no;377000;9200;45;fixed;house;0.7;30700;1;1;true;true;male;0;23;true;incomplete higher;single;lower_value
+677;no;569000;14200;41;variable;house;1;51600;2;2;true;true;female;7;29;true;incomplete higher;single;lower_value
+678;no;591000;22900;27;fixed;house;1;100500;2;3;false;true;female;13;36;true;incomplete higher;widowed;higher_value
+679;no;120000;11500;11;variable;apartment;0.3;41300;2;2;false;true;male;30;50;true;lower;married;lower_value
+680;no;848000;23200;39;fixed;apartment;0.8;84000;0;1;false;false;male;5;28;true;academic degree;single;lower_value
+681;no;963000;22000;46;variable;house;0.3;99100;1;2;true;true;female;1;21;true;incomplete higher;single;higher_value
+682;no;496000;13400;41;fixed;house;0.9;63100;2;3;true;true;male;0;22;true;academic degree;married;lower_value
+683;no;1161000;31400;38;fixed;house;0.6;85000;2;3;true;true;male;14;36;true;academic degree;divorced;lower_value
+684;no;177000;10400;17;variable;apartment;0.1;30500;1;1;false;false;male;24;49;true;academic degree;single;lower_value
+685;no;709000;17000;44;fixed;house;0.7;75400;0;1;false;true;male;0;25;true;lower secondary;single;lower_value
+686;no;370600;17300;22;variable;house;0.6;58900;2;2;false;true;male;19;43;true;incomplete higher;widowed;lower_value
+687;no;242000;13800;19;fixed;apartment;0.7;34700;1;1;true;true;male;14;41;true;incomplete higher;divorced;lower_value
+688;no;550000;25200;24;variable;apartment;0.6;60300;1;1;true;true;female;16;39;true;lower secondary;widowed;lower_value
+689;no;452400;30600;15;fixed;house;1;70600;1;1;true;true;male;30;54;true;incomplete higher;single;lower_value
+690;no;114000;7400;17;fixed;apartment;0.2;36800;1;2;true;true;male;25;48;true;incomplete higher;married;lower_value
+691;no;558100;18900;32;variable;apartment;0.6;42200;1;1;true;true;male;15;36;true;secondary;widowed;lower_value
+692;no;260000;9000;30;variable;house;0.6;38600;3;4;false;true;female;6;30;true;lower secondary;divorced;lower_value
+693;no;2212000;63300;37;variable;house;0.4;127800;3;3;true;true;male;6;25;true;secondary;married;higher_value
+694;no;355000;10700;36;fixed;apartment;0.7;24500;1;1;true;true;male;6;29;true;academic degree;divorced;lower_value
+695;yes;1132000;33000;38;fixed;house;0.5;65600;3;3;false;true;male;9;31;true;lower;divorced;lower_value
+696;no;152000;5200;32;variable;house;0.1;37000;2;3;false;true;male;0;21;false;lower;single;lower_value
+697;no;710000;21500;36;variable;apartment;0.3;105500;0;1;false;true;male;13;33;true;lower;married;higher_value
+698;no;405000;11000;41;variable;apartment;0.5;23000;1;1;true;false;female;4;26;true;secondary;divorced;lower_value
+699;no;211000;9800;22;variable;apartment;0.4;20800;2;2;true;false;male;12;36;true;academic degree;married;lower_value
+700;no;546000;15100;37;fixed;apartment;1;38400;1;1;true;false;female;12;32;true;incomplete higher;divorced;lower_value
+701;no;1281000;36400;35;variable;house;0.5;115600;2;3;false;true;female;7;31;true;lower secondary;divorced;higher_value
+702;no;385000;13900;30;fixed;house;0.1;69000;3;4;true;true;female;7;29;true;academic degree;married;lower_value
+703;no;235000;13300;19;variable;house;0.6;26800;2;1;true;false;male;18;42;true;lower secondary;divorced;lower_value
+704;no;440400;32300;14;variable;house;0.8;102400;0;1;true;true;female;29;49;true;secondary;single;higher_value
+705;yes;432000;13900;34;fixed;house;0.6;26400;4;4;true;false;female;11;32;false;incomplete higher;widowed;lower_value
+706;no;122000;22700;6;fixed;house;0.2;71400;1;2;true;true;female;30;59;true;lower;divorced;lower_value
+707;no;1143000;33100;37;fixed;apartment;0.5;74900;2;2;false;true;male;2;26;true;incomplete higher;married;lower_value
+708;no;547000;20900;29;variable;apartment;0.6;73500;1;1;true;true;male;10;33;true;academic degree;married;lower_value
+709;no;369000;16100;24;fixed;apartment;0.7;57000;2;2;false;false;male;23;46;true;academic degree;single;lower_value
+710;no;422000;22800;20;variable;apartment;0.1;76100;3;3;true;true;female;17;41;true;incomplete higher;single;lower_value
+711;no;643000;21500;33;fixed;house;0.5;50600;1;1;true;false;male;7;30;true;academic degree;married;lower_value
+712;no;342000;17900;20;fixed;apartment;0.7;50800;2;1;true;true;male;17;40;true;incomplete higher;widowed;lower_value
+713;no;359000;33700;11;fixed;apartment;1;94100;1;1;true;true;female;29;52;true;lower;married;higher_value
+714;no;286000;34600;9;fixed;apartment;0.3;96000;1;2;true;true;male;30;71;false;academic degree;married;higher_value
+715;no;532000;19400;30;variable;house;0.2;44400;2;1;false;false;male;8;32;true;academic degree;married;lower_value
+716;no;902500;27600;33;fixed;house;1;91800;1;2;true;true;male;8;33;true;lower secondary;single;higher_value
+717;yes;172000;13000;14;variable;house;0.1;46800;2;3;true;true;female;30;75;false;lower secondary;widowed;lower_value
+718;no;1185000;36900;35;fixed;apartment;1;87800;3;3;false;false;male;4;28;true;academic degree;single;lower_value
+719;yes;683000;21600;33;fixed;apartment;0.3;54200;1;1;true;false;male;19;34;true;incomplete higher;divorced;lower_value
+720;no;210000;17700;12;fixed;apartment;0.5;46900;2;2;true;false;male;30;51;true;incomplete higher;divorced;lower_value
+721;no;916000;22600;43;variable;apartment;0.5;93500;1;2;true;true;male;2;23;true;lower secondary;married;higher_value
+722;no;287000;22800;14;fixed;house;0.3;107400;1;2;true;true;male;30;67;false;academic degree;married;higher_value
+723;no;620000;20200;32;variable;apartment;0.4;55300;2;2;false;false;female;5;29;true;lower secondary;divorced;lower_value
+724;no;560000;19300;29;fixed;house;0.8;65200;1;1;true;false;male;7;35;true;lower;divorced;lower_value
+725;no;148200;12400;12;variable;apartment;0.4;44100;2;3;true;true;male;30;57;true;incomplete higher;married;lower_value
+726;no;234000;9200;28;variable;house;0.2;18600;3;2;true;true;male;19;41;true;secondary;single;lower_value
+727;no;490000;25300;20;fixed;apartment;1;57600;1;1;true;false;male;25;47;true;lower secondary;widowed;lower_value
+728;no;984000;23700;43;fixed;apartment;0.3;75700;1;1;true;true;male;4;29;true;incomplete higher;married;lower_value
+729;no;446000;9500;47;fixed;apartment;0.4;33800;1;1;true;true;male;1;26;true;secondary;single;lower_value
+730;no;1024000;35900;31;variable;house;0.7;87900;1;1;false;false;female;8;32;true;lower;divorced;lower_value
+731;no;820800;29600;28;fixed;house;0.1;56500;2;2;true;true;male;15;34;true;lower secondary;widowed;lower_value
+732;no;81000;7100;11;variable;house;0.3;27600;1;1;false;false;male;30;67;true;academic degree;married;lower_value
+733;no;487000;13900;37;variable;house;0.2;30000;2;2;true;true;male;17;38;true;incomplete higher;divorced;lower_value
+734;no;973000;33800;29;fixed;house;0.4;92800;1;1;true;true;male;16;37;true;secondary;married;higher_value
+735;no;551500;30200;19;variable;apartment;0.7;66000;2;1;false;true;female;26;45;true;lower secondary;single;lower_value
+736;no;1523000;51800;32;fixed;apartment;0.8;133000;2;3;true;false;female;8;29;true;secondary;widowed;higher_value
+737;no;711000;20800;35;fixed;apartment;0.1;46400;2;2;true;true;male;0;27;true;incomplete higher;married;lower_value
+738;no;196000;10100;21;fixed;apartment;0.4;23800;2;2;false;true;female;22;42;true;incomplete higher;married;lower_value
+739;no;687000;20300;36;variable;house;1;78700;2;1;false;true;male;3;22;true;incomplete higher;single;lower_value
+740;no;2166900;52600;42;fixed;house;0.6;136400;2;2;true;false;male;4;27;true;secondary;divorced;higher_value
+741;no;129000;9300;15;variable;house;0.1;39400;2;3;true;false;male;26;49;true;lower;divorced;lower_value
+742;no;183000;6900;28;fixed;house;0.1;22100;1;1;false;true;male;14;39;true;academic degree;single;lower_value
+743;no;426000;28900;15;fixed;apartment;1;110800;0;1;true;true;male;25;49;true;secondary;married;higher_value
+744;yes;267000;10500;27;fixed;apartment;0.4;40200;2;3;false;false;male;15;40;true;lower;divorced;lower_value
+745;yes;87200;17900;5;fixed;house;0.3;40000;2;2;true;true;female;30;58;false;academic degree;widowed;lower_value
+746;no;156000;15400;11;fixed;house;0.1;80300;3;4;true;true;female;30;68;false;lower;married;lower_value
+747;no;574400;21500;29;variable;house;0.5;63100;3;3;false;false;female;8;33;true;lower;widowed;lower_value
+748;no;284500;8300;35;fixed;house;0.6;28300;2;1;true;true;male;1;24;true;lower;single;lower_value
+749;no;186000;31300;6;variable;apartment;0.2;92900;1;2;true;true;male;30;59;true;academic degree;married;higher_value
+750;no;395700;21800;19;variable;house;0.6;71800;3;3;true;false;female;26;49;true;academic degree;single;lower_value
+751;no;569000;35200;18;fixed;house;0.7;110000;3;4;true;false;male;24;51;true;secondary;divorced;higher_value
+752;no;305000;10100;32;variable;house;0.5;35000;1;1;false;false;male;16;40;false;incomplete higher;divorced;lower_value
+753;no;1660100;46500;38;fixed;house;0.8;96600;2;2;true;true;male;7;30;true;incomplete higher;widowed;higher_value
+754;no;772000;21000;37;variable;apartment;0.4;58600;2;2;true;true;female;2;22;true;secondary;married;lower_value
+755;no;1057300;25000;44;variable;house;0.5;68200;1;2;true;false;male;0;23;true;incomplete higher;married;lower_value
+756;no;258000;8900;31;variable;house;0.2;54600;1;2;true;true;female;16;39;true;secondary;married;lower_value
+757;no;500300;27400;19;variable;apartment;0.1;85500;2;2;false;false;female;20;42;true;academic degree;married;lower_value
+758;no;596000;33000;20;fixed;apartment;0.7;71900;1;1;true;false;male;22;46;true;lower;single;lower_value
+759;no;308000;9000;35;fixed;house;0.5;30300;1;1;true;true;male;12;34;true;incomplete higher;married;lower_value
+760;no;128000;6800;20;fixed;house;0.2;21400;3;2;true;false;male;25;48;true;academic degree;married;lower_value
+761;no;338000;13700;26;variable;house;0.5;50500;3;2;false;false;male;12;38;true;incomplete higher;single;lower_value
+762;no;210000;14500;16;variable;apartment;0.6;63300;3;4;true;true;male;21;45;true;lower secondary;married;lower_value
+763;no;696000;17800;40;fixed;house;0.6;81600;1;2;false;true;female;2;30;true;lower;widowed;lower_value
+764;no;456700;26300;18;variable;house;1;58400;2;2;false;false;male;19;42;true;lower secondary;married;lower_value
+765;no;1279000;37000;36;variable;house;0.9;84900;1;1;true;true;male;7;33;true;lower;single;lower_value
+766;yes;343400;9500;39;variable;house;0.3;28200;3;3;false;true;female;0;23;true;lower secondary;married;lower_value
+767;no;186000;14100;14;variable;apartment;0.4;45600;1;1;true;false;male;28;53;true;incomplete higher;single;lower_value
+768;no;58000;9300;7;variable;house;0.4;27700;1;1;true;true;male;30;63;true;secondary;divorced;lower_value
+769;no;214000;25500;9;fixed;house;0.6;90500;2;3;true;true;male;30;60;true;academic degree;divorced;higher_value
+770;no;442500;17100;28;fixed;house;1;88600;0;1;true;false;male;13;36;true;lower secondary;divorced;lower_value
+771;no;685000;35700;20;fixed;apartment;1;73800;1;1;true;false;male;21;46;true;secondary;widowed;lower_value
+772;no;425100;45700;10;variable;apartment;0.4;110000;1;2;true;false;female;30;76;false;academic degree;divorced;higher_value
+773;no;173000;12800;15;variable;apartment;0.1;50100;2;2;true;false;male;30;54;true;incomplete higher;single;lower_value
+774;no;1099000;38500;29;fixed;apartment;0.7;86500;1;1;false;true;male;10;34;true;secondary;married;lower_value
+775;no;417000;20300;22;fixed;apartment;0.6;69600;1;1;true;false;female;14;40;true;secondary;married;lower_value
+776;no;278000;15700;18;fixed;house;0.7;46900;2;1;true;false;female;21;46;true;secondary;widowed;lower_value
+777;no;650000;30800;22;fixed;house;1;79200;2;2;true;true;male;15;38;true;lower;married;lower_value
+778;no;570000;17400;35;fixed;house;0.1;57200;1;1;true;true;male;7;31;true;academic degree;widowed;lower_value
+779;no;441000;12700;36;variable;apartment;0.9;25900;1;1;true;false;female;7;30;true;secondary;single;lower_value
+780;no;535000;13100;41;variable;house;0.8;72400;1;2;true;true;male;0;22;true;lower secondary;married;lower_value
+781;no;1448600;29800;53;variable;house;0.5;74100;3;3;true;true;male;0;20;true;lower secondary;married;lower_value
+782;no;687800;18000;42;variable;apartment;0.9;61600;2;1;true;true;female;3;23;true;academic degree;married;lower_value
+783;yes;249000;18700;14;variable;house;0.5;41800;1;1;true;false;male;26;49;true;secondary;married;lower_value
+784;no;177000;15800;11;fixed;house;0.1;50500;1;1;true;true;female;30;53;true;academic degree;married;lower_value
+785;no;993000;28600;37;variable;apartment;0.9;69100;1;1;false;true;female;3;26;true;academic degree;divorced;lower_value
+786;no;660000;30900;23;variable;apartment;0.5;89000;3;3;true;false;female;19;43;true;academic degree;married;lower_value
+787;no;894900;33400;29;fixed;apartment;0.5;66400;2;2;true;true;female;14;36;true;academic degree;married;lower_value
+788;yes;734000;28100;26;variable;house;0.5;53100;2;2;true;false;male;30;47;true;lower secondary;divorced;lower_value
+789;no;46000;8200;6;fixed;house;0.1;18900;2;2;false;false;male;30;61;true;secondary;married;lower_value
+790;no;752000;29900;28;fixed;apartment;0.8;86800;2;2;true;false;male;15;36;true;secondary;single;lower_value
+791;no;247000;39000;7;fixed;apartment;0.3;90100;2;2;false;true;male;23;50;true;incomplete higher;divorced;higher_value
+792;no;627800;22700;31;variable;apartment;0.5;87100;2;3;true;false;female;15;36;true;incomplete higher;single;lower_value
+793;no;294000;26900;12;variable;apartment;0.4;62900;1;1;true;false;male;30;51;true;academic degree;married;lower_value
+794;no;456700;18100;27;variable;house;0.8;78200;2;3;true;false;female;15;38;true;academic degree;married;lower_value
+795;yes;1441000;45300;33;variable;house;0.8;105000;2;3;false;false;male;5;25;true;secondary;single;higher_value
+796;no;223000;9200;27;variable;house;0.7;24700;2;1;false;false;female;11;36;true;incomplete higher;married;lower_value
+797;no;110000;4300;26;variable;house;0.2;17000;2;1;true;true;male;16;35;true;lower;single;lower_value
+798;no;1518400;32800;49;variable;house;0.5;66600;2;2;true;false;female;0;20;true;lower;single;lower_value
+799;no;747000;29800;27;variable;apartment;0.8;61700;3;2;true;true;female;17;39;true;lower secondary;married;lower_value
+800;no;914000;24900;40;variable;apartment;0.8;60100;1;1;true;false;female;3;25;true;lower secondary;married;lower_value
+801;no;521000;16600;32;variable;house;0.3;69100;2;3;true;true;male;9;34;true;academic degree;single;lower_value
+802;no;1053000;27600;38;fixed;apartment;1;71200;3;3;true;false;female;6;26;true;incomplete higher;married;lower_value
+803;no;944000;27200;36;fixed;apartment;1;81600;1;2;false;true;male;0;24;true;incomplete higher;married;lower_value
+804;no;286000;19900;15;fixed;house;0.4;58800;1;1;false;false;male;30;52;true;lower;divorced;lower_value
+805;no;1233000;37700;34;fixed;house;0.9;113300;0;1;true;true;female;9;31;true;lower secondary;married;higher_value
+806;no;245300;8800;28;variable;apartment;0.5;20500;2;1;true;true;female;14;36;true;academic degree;single;lower_value
+807;no;247000;29400;8;variable;apartment;0.6;80300;1;2;false;false;male;30;54;true;academic degree;single;lower_value
+808;yes;158000;12800;13;fixed;house;0.2;32100;1;1;false;false;female;30;65;true;lower secondary;married;lower_value
+809;no;442000;15500;31;variable;house;0.6;38600;2;2;true;false;male;9;33;true;secondary;married;lower_value
+810;no;326000;8100;41;variable;apartment;0.6;26400;2;2;false;false;female;4;27;true;secondary;married;lower_value
+811;no;369000;9900;38;fixed;apartment;0.3;21600;2;2;true;true;male;5;27;true;academic degree;married;lower_value
+812;no;753000;24200;33;fixed;apartment;0.7;110100;1;2;false;true;male;13;35;true;lower secondary;single;higher_value
+813;yes;252000;7100;37;variable;apartment;0.5;23100;1;1;false;true;female;5;30;true;lower;divorced;lower_value
+814;no;303000;9000;37;fixed;apartment;0.5;41300;2;3;true;true;female;7;29;true;secondary;married;lower_value
+815;no;719400;29800;26;fixed;house;0.6;64400;2;2;true;false;male;18;42;true;academic degree;married;lower_value
+816;no;359000;16800;24;fixed;apartment;1;66300;2;2;false;false;male;24;45;true;secondary;single;lower_value
+817;no;1779000;43000;42;variable;house;1;90100;2;2;true;true;male;0;21;true;lower;married;higher_value
+818;yes;69800;8600;9;variable;house;0.3;24700;3;3;false;false;male;30;70;false;lower secondary;married;lower_value
+819;no;443000;17800;26;variable;house;0.6;68500;2;3;true;false;male;12;35;true;lower;divorced;lower_value
+820;no;260000;11600;24;variable;apartment;0.6;23400;1;1;false;false;female;19;39;false;academic degree;married;lower_value
+821;no;266000;31200;9;variable;apartment;0.6;105500;2;2;true;true;female;29;51;true;lower;divorced;higher_value
+822;no;787000;35600;24;variable;house;0.6;78100;1;1;false;true;female;7;34;true;academic degree;divorced;lower_value
+823;no;443000;25000;18;variable;house;1;50800;2;2;true;false;male;22;44;true;incomplete higher;single;lower_value
+824;no;263000;20200;14;variable;house;0.6;78000;1;1;false;false;male;30;58;true;academic degree;divorced;lower_value
+825;yes;584000;16100;39;fixed;house;0.7;41600;1;1;false;true;female;6;28;true;academic degree;divorced;lower_value
+826;no;585000;42000;14;variable;apartment;0.5;105500;2;1;true;true;female;30;76;false;secondary;widowed;higher_value
+827;no;198000;30100;7;fixed;apartment;0.4;110400;0;1;false;true;female;30;59;true;academic degree;divorced;higher_value
+828;no;235400;7700;31;variable;house;0.5;19800;2;1;true;true;male;20;39;false;lower secondary;married;lower_value
+829;yes;721000;21300;37;fixed;house;0.1;60400;2;2;true;false;male;13;33;true;secondary;single;lower_value
+830;no;1269000;36600;36;fixed;house;0.7;96400;2;3;true;true;male;6;30;true;incomplete higher;divorced;higher_value
+831;no;179000;6100;30;fixed;house;0.3;39900;1;2;false;true;male;10;35;true;secondary;single;lower_value
+832;no;729000;28900;25;variable;house;0.5;64300;1;1;true;true;male;13;38;true;incomplete higher;married;lower_value
+833;no;616000;18400;36;variable;apartment;1;45800;2;2;true;true;male;12;35;true;lower secondary;divorced;lower_value
+834;no;519000;14900;37;fixed;apartment;0.9;60100;0;1;false;true;male;9;32;true;lower secondary;divorced;lower_value
+835;no;1663300;43800;42;variable;apartment;0.7;84000;1;1;true;true;male;0;24;true;academic degree;single;lower_value
+836;no;178000;8400;23;variable;apartment;0.1;57500;0;1;false;false;female;25;46;true;secondary;single;lower_value
+837;no;1322200;54100;25;fixed;house;0.6;100800;2;2;true;true;male;9;35;true;academic degree;married;higher_value
+838;no;494000;15200;36;fixed;apartment;0.6;34600;2;1;false;false;male;0;26;false;academic degree;widowed;lower_value
+839;no;955900;36200;29;fixed;house;0.4;96300;3;3;true;false;male;21;42;true;incomplete higher;divorced;higher_value
+840;yes;789000;31300;26;fixed;house;0.2;78100;3;2;false;false;male;25;44;true;lower;divorced;lower_value
+841;no;642000;17400;39;fixed;apartment;1;51600;1;1;false;false;male;13;37;true;secondary;married;lower_value
+842;no;235000;19400;12;fixed;apartment;0.5;65400;1;1;true;false;female;30;57;true;academic degree;single;lower_value
+843;no;851000;20800;44;variable;house;0.3;42800;4;3;false;false;female;2;24;true;lower secondary;married;lower_value
+844;yes;415000;24800;17;variable;house;0.5;70400;3;4;false;false;male;24;43;true;incomplete higher;divorced;lower_value
+845;no;267000;9300;30;variable;house;0.4;20600;1;1;true;true;male;9;32;true;lower secondary;divorced;lower_value
+846;no;355000;10900;33;variable;house;0.2;44200;2;3;false;true;female;14;38;true;lower secondary;single;lower_value
+847;no;368000;14500;26;variable;house;0.4;29000;1;1;false;false;male;9;35;true;secondary;divorced;lower_value
+848;no;213000;21200;10;variable;apartment;0.4;72300;2;1;false;true;male;30;58;true;lower secondary;married;lower_value
+849;no;236000;6500;39;variable;apartment;0.6;37600;2;3;true;true;male;6;27;false;incomplete higher;single;lower_value
+850;yes;1290000;43600;32;variable;house;0.4;91800;3;3;false;false;male;1;24;true;lower secondary;single;higher_value
+851;no;569000;19200;30;variable;apartment;0.2;50700;2;1;true;true;male;9;33;true;lower secondary;single;lower_value
+852;no;428400;14000;32;variable;house;1;37300;1;1;false;false;female;15;37;false;incomplete higher;single;lower_value
+853;no;499000;11300;46;variable;house;0.8;56100;0;1;true;true;female;2;25;true;academic degree;married;lower_value
+854;no;1541000;34500;47;variable;house;0.4;99600;2;1;false;true;male;1;21;true;lower;married;higher_value
+855;yes;235400;19800;12;fixed;house;0.7;38200;2;2;false;false;female;29;52;true;lower;single;lower_value
+856;no;403300;28900;15;variable;apartment;1;74200;1;2;true;false;male;30;78;false;incomplete higher;single;lower_value
+857;no;328000;25500;13;fixed;apartment;0.5;53400;1;1;true;true;female;29;52;true;academic degree;single;lower_value
+858;no;394600;45100;9;fixed;house;0.8;90700;1;1;true;false;male;30;70;false;lower secondary;single;higher_value
+859;yes;174000;17000;11;variable;house;0.4;52300;2;2;false;false;female;30;53;true;secondary;married;lower_value
+860;no;270300;6900;42;fixed;house;0.6;45300;2;3;false;false;female;0;26;false;lower secondary;single;lower_value
+861;no;351000;26400;14;fixed;apartment;0.2;60800;2;2;true;false;male;24;50;true;incomplete higher;single;lower_value
+862;no;164000;10200;17;fixed;house;0.2;38000;1;1;false;false;female;19;42;true;lower secondary;married;lower_value
+863;yes;1362500;29500;51;fixed;apartment;0.2;68200;3;3;true;false;female;1;20;true;lower secondary;single;lower_value
+864;no;264000;7000;39;fixed;house;0.6;25300;1;1;false;true;female;10;33;true;lower;widowed;lower_value
+865;no;317000;10100;33;variable;house;0.3;46200;1;2;true;true;male;14;36;true;incomplete higher;divorced;lower_value
+866;no;223000;19100;13;fixed;apartment;0.7;59800;2;1;true;true;female;28;51;true;lower secondary;single;lower_value
+867;no;685000;26700;26;variable;apartment;1;68800;2;1;true;true;male;11;37;true;lower;divorced;lower_value
+868;no;107000;22200;5;fixed;house;0.4;48700;1;1;false;true;male;30;55;true;incomplete higher;married;lower_value
+869;no;60000;8700;7;fixed;house;0.2;19500;2;2;false;true;male;29;53;true;incomplete higher;single;lower_value
+870;no;174000;25100;7;fixed;house;0.4;50600;1;1;false;false;male;30;75;false;lower;married;lower_value
+871;no;584200;18100;34;variable;house;0.3;52600;3;2;true;true;male;0;25;true;incomplete higher;single;lower_value
+872;no;615000;18100;35;fixed;apartment;0.8;70500;2;1;false;true;male;10;30;true;incomplete higher;divorced;lower_value
+873;no;251000;7800;34;variable;house;0.7;29100;2;1;true;false;female;12;30;true;secondary;divorced;lower_value
+874;no;206000;11000;20;fixed;apartment;0.5;29800;1;1;false;true;female;17;44;true;lower secondary;single;lower_value
+875;no;708000;28300;25;fixed;apartment;0.4;69400;2;2;false;false;male;9;32;true;secondary;married;lower_value
+876;yes;239000;8100;32;variable;house;0.7;24900;2;2;true;false;female;11;30;false;incomplete higher;divorced;lower_value
+877;no;811000;24300;33;fixed;apartment;0.9;53600;2;2;false;false;female;10;33;true;incomplete higher;widowed;lower_value
+878;no;506000;45700;12;fixed;house;0.2;116200;1;1;true;true;female;27;54;true;lower secondary;divorced;higher_value
+879;yes;392000;13700;29;variable;apartment;0.6;45200;4;4;false;true;female;12;33;false;lower;married;lower_value
+880;no;238000;14000;18;variable;house;0.6;56700;2;3;true;false;male;30;59;true;academic degree;single;lower_value
+881;no;482000;14800;33;variable;apartment;0.2;39400;1;1;false;true;male;6;29;false;incomplete higher;divorced;lower_value
+882;no;1317800;33500;41;fixed;house;1;69500;1;1;false;false;female;3;21;true;incomplete higher;single;lower_value
+883;no;98000;14900;7;fixed;apartment;0.1;43900;2;2;true;true;male;27;46;true;secondary;divorced;lower_value
+884;yes;225600;26500;9;fixed;house;0.1;55500;1;1;false;true;female;30;53;true;secondary;divorced;lower_value
+885;no;564000;29600;20;variable;house;0.8;102200;0;1;false;false;female;28;50;true;secondary;single;higher_value
+886;no;58000;5600;11;variable;apartment;0.4;37900;2;3;true;false;female;30;75;false;secondary;divorced;lower_value
+887;no;247000;16600;16;variable;apartment;0.7;34500;1;1;false;true;male;22;46;true;lower;widowed;lower_value
+888;no;244000;8300;30;fixed;house;0.6;29600;2;2;true;true;male;13;34;true;academic degree;divorced;lower_value
+889;no;571000;34000;17;fixed;house;0.5;90700;3;2;true;true;male;24;47;true;incomplete higher;married;higher_value
+890;no;727000;23100;32;fixed;house;0.6;103700;0;1;false;true;male;13;34;true;lower secondary;widowed;higher_value
+891;no;155000;5400;31;variable;apartment;0.3;19900;2;1;true;true;male;12;35;true;academic degree;married;lower_value
+892;no;435000;16800;26;fixed;house;1;35700;2;1;false;false;male;17;40;true;incomplete higher;single;lower_value
+893;no;323000;30900;11;fixed;apartment;0.3;114400;2;2;false;true;male;30;61;true;lower secondary;divorced;higher_value
+894;no;355300;11200;34;fixed;apartment;0.5;28000;2;2;true;false;female;7;32;false;incomplete higher;single;lower_value
+895;no;444000;22500;21;variable;apartment;0.5;85300;2;3;false;false;female;30;52;true;incomplete higher;married;lower_value
+896;no;315000;9700;36;fixed;apartment;0.6;43300;1;2;false;true;male;6;31;true;academic degree;single;lower_value
+897;no;341000;21900;16;fixed;house;0.6;84900;2;3;false;false;male;24;47;true;lower secondary;married;lower_value
+898;no;415000;20000;21;variable;apartment;0.9;89000;1;2;false;true;male;17;40;true;incomplete higher;married;lower_value
+899;no;44700;8000;6;fixed;apartment;0.4;27900;1;1;true;true;female;30;58;true;lower;widowed;lower_value
+900;no;255100;12900;20;variable;apartment;0.4;44800;2;3;false;true;male;18;44;true;lower;divorced;lower_value
+901;no;80000;6600;12;variable;house;0.3;25600;1;1;false;true;male;30;57;true;academic degree;widowed;lower_value
+902;no;839000;27100;33;fixed;apartment;0.1;88100;2;3;true;false;male;9;34;true;academic degree;married;lower_value
+903;no;801000;24300;33;variable;house;0.1;84000;1;1;true;false;male;5;28;true;lower secondary;married;lower_value
+904;yes;769500;16500;47;variable;house;0.2;67500;2;3;true;false;female;1;20;true;lower;married;lower_value
+905;no;474200;16400;30;variable;apartment;0.5;33800;2;1;true;true;female;13;36;false;incomplete higher;single;lower_value
+906;no;346000;30300;11;variable;house;0.4;90000;2;3;true;false;male;30;57;true;academic degree;single;higher_value
+907;no;1192000;28200;43;variable;house;0.7;73900;1;1;true;true;female;0;21;true;secondary;married;lower_value
+908;no;265000;9800;30;variable;house;0.6;22100;1;1;true;true;male;14;38;true;lower secondary;divorced;lower_value
+909;yes;355000;7700;48;variable;apartment;0.4;17500;2;2;true;false;female;3;23;true;secondary;single;lower_value
+910;no;303000;36300;9;fixed;apartment;0.5;100400;2;1;true;true;male;30;57;true;incomplete higher;married;higher_value
+911;no;204000;9700;22;fixed;apartment;0.6;19700;1;1;true;true;female;19;38;false;lower secondary;single;lower_value
+912;no;356400;20300;20;fixed;apartment;0.5;58200;3;3;false;false;male;16;40;true;lower secondary;married;lower_value
+913;no;817000;27200;31;variable;house;0.1;85600;1;2;true;false;male;13;33;true;academic degree;single;lower_value
+914;no;521000;18400;31;variable;house;0.1;42300;1;1;true;false;male;14;34;true;incomplete higher;single;lower_value
+915;no;191000;14300;13;variable;house;0.4;38600;1;1;true;false;male;26;51;true;secondary;single;lower_value
+916;no;789000;18400;46;variable;apartment;0.7;58900;1;1;true;false;female;2;22;true;secondary;married;lower_value
+917;no;303000;36600;9;variable;apartment;0.7;81300;1;1;true;true;female;30;75;false;incomplete higher;married;lower_value
+918;no;1171000;35000;35;fixed;house;0.7;137300;0;1;false;true;male;1;27;true;academic degree;married;higher_value
+919;yes;367300;15800;26;variable;apartment;0.6;34900;3;3;false;true;female;23;39;true;incomplete higher;widowed;lower_value
+920;yes;307000;25100;13;variable;house;0.2;70300;2;3;false;false;female;30;76;false;lower;widowed;lower_value
+921;no;1125000;26100;45;fixed;house;0.3;100300;1;1;true;true;male;0;22;true;academic degree;single;higher_value
+922;no;244000;17000;15;variable;house;0.5;41400;2;2;true;false;male;21;44;false;lower secondary;single;lower_value
+923;no;377000;21700;19;fixed;apartment;1;64400;2;3;false;false;male;28;50;true;lower;single;lower_value
+924;yes;944000;19900;48;variable;house;0.2;47000;1;1;false;false;male;8;26;true;secondary;divorced;lower_value
+925;yes;614800;13300;47;fixed;house;0.7;28600;1;1;false;true;male;4;25;true;incomplete higher;single;lower_value
+926;no;667100;29500;24;fixed;house;0.8;61400;1;1;true;true;female;18;39;true;academic degree;widowed;lower_value
+927;no;90000;18500;5;fixed;apartment;0.3;56900;1;1;true;true;male;30;54;true;incomplete higher;married;lower_value
+928;no;731000;42800;18;fixed;house;1;114100;1;2;true;true;female;23;50;true;lower;divorced;higher_value
+929;no;322000;27700;12;variable;apartment;0.7;84400;2;1;true;true;male;30;67;true;incomplete higher;divorced;lower_value
+930;no;225000;19400;12;variable;house;0.6;49900;2;2;false;true;male;26;50;true;incomplete higher;divorced;lower_value
+931;no;407000;19900;22;fixed;house;1;55700;2;2;true;true;male;14;39;true;incomplete higher;divorced;lower_value
+932;no;1221000;32400;41;variable;apartment;1;104200;0;1;true;false;female;4;27;true;incomplete higher;single;higher_value
+933;no;116000;19500;6;fixed;apartment;0.4;42700;1;1;true;false;male;30;69;false;secondary;single;lower_value
+934;yes;277000;19400;16;variable;house;0.4;51700;2;1;true;false;female;21;44;true;incomplete higher;married;lower_value
+935;no;1169000;45800;26;variable;house;0.7;164800;0;1;true;true;male;14;37;true;secondary;married;higher_value
+936;no;564600;30300;21;fixed;house;0.2;84900;3;4;false;true;female;25;46;true;incomplete higher;single;lower_value
+937;no;226000;29200;8;variable;house;0.3;103400;0;1;false;true;female;29;55;true;secondary;divorced;higher_value
+938;yes;143000;14200;11;variable;house;0.4;32000;3;3;false;false;female;30;69;false;lower;single;lower_value
+939;no;223000;11900;20;fixed;apartment;0.4;37600;1;1;true;false;male;17;41;true;lower secondary;single;lower_value
+940;no;448000;11200;42;variable;house;0.4;44700;1;2;true;true;male;5;26;true;academic degree;married;lower_value
+941;no;289000;11800;26;fixed;house;0.3;45300;2;2;false;true;male;15;37;true;secondary;single;lower_value
+942;no;864000;24200;38;fixed;house;0.7;107800;1;2;false;false;female;5;25;true;lower secondary;single;higher_value
+943;no;1871000;47000;42;fixed;house;1;97700;2;2;true;false;female;6;27;true;secondary;single;higher_value
+944;no;110000;22000;5;fixed;apartment;0.3;85200;2;2;false;true;male;30;64;true;incomplete higher;married;lower_value
+945;no;453400;15800;32;fixed;apartment;1;53800;1;2;false;true;male;14;38;false;lower secondary;married;lower_value
+946;no;822000;35000;24;fixed;apartment;1;93800;2;3;false;false;male;16;37;true;incomplete higher;married;higher_value
+947;no;138000;18800;8;variable;house;0.4;61200;2;2;true;false;male;30;74;false;secondary;married;lower_value
+948;yes;1023000;32400;34;variable;apartment;0.5;61800;1;1;true;false;female;13;33;true;incomplete higher;single;lower_value
+949;no;199000;15600;13;fixed;house;0.2;56100;1;1;true;true;female;17;41;true;lower secondary;widowed;lower_value
+950;yes;537000;17900;33;variable;house;0.1;59300;2;1;true;false;female;7;30;true;lower;divorced;lower_value
+951;no;246000;20400;13;fixed;house;0.6;42300;2;1;true;true;male;29;52;true;lower;widowed;lower_value
+952;no;683000;20900;33;variable;house;0.4;61700;1;1;false;false;male;8;30;true;lower secondary;married;lower_value
+953;yes;646000;18700;35;fixed;apartment;0.2;81800;3;4;false;false;female;2;25;true;lower secondary;single;lower_value
+954;yes;762000;21200;38;variable;house;0.6;44900;1;1;false;true;male;8;31;true;secondary;single;lower_value
+955;no;1376000;37200;37;fixed;house;0.2;91800;3;3;true;false;male;1;26;true;incomplete higher;single;higher_value
+956;yes;103000;5900;18;variable;house;0.3;16600;1;1;false;false;male;28;50;true;lower secondary;single;lower_value
+957;no;1692000;57100;32;variable;house;0.9;158400;1;2;false;true;male;5;28;true;incomplete higher;married;higher_value
+958;no;191000;8600;24;fixed;apartment;0.3;22000;1;1;false;true;female;9;33;false;academic degree;married;lower_value
+959;no;484000;39700;13;fixed;apartment;1;92800;2;1;false;true;male;30;67;true;lower secondary;single;higher_value
+960;no;83000;13600;6;fixed;house;0.2;66900;1;2;true;false;male;30;67;true;academic degree;divorced;lower_value
+961;no;442000;30500;16;fixed;apartment;0.5;102200;2;3;false;false;male;29;50;true;lower;single;higher_value
+962;no;150000;13000;12;variable;house;0.4;44700;1;1;true;false;male;30;56;true;lower secondary;divorced;lower_value
+963;no;134100;14300;10;variable;apartment;0.1;33700;2;2;true;true;female;26;51;true;secondary;married;lower_value
+964;no;164000;12000;14;fixed;house;0.3;33900;1;1;true;false;female;30;52;false;academic degree;widowed;lower_value
+965;no;907000;17800;52;variable;apartment;0.3;60400;1;1;true;true;male;0;22;true;lower secondary;single;lower_value
+966;no;34000;5100;7;fixed;house;0.3;19700;3;3;true;false;male;30;55;true;academic degree;widowed;lower_value
+967;no;100300;17000;6;variable;house;0.3;61200;2;1;true;true;male;25;54;true;incomplete higher;married;lower_value
+968;no;388000;13900;28;variable;apartment;0.4;27800;2;1;false;false;male;7;31;true;lower secondary;widowed;lower_value
+969;no;735000;22500;35;variable;house;1;86800;2;3;true;true;female;10;30;true;lower secondary;widowed;lower_value
+970;no;426200;16800;27;fixed;apartment;1;45600;2;1;false;true;female;15;36;false;lower secondary;divorced;lower_value
+971;no;1069300;22100;51;fixed;house;0.5;44300;2;2;true;true;male;0;22;true;lower secondary;single;lower_value
+972;no;972000;39100;28;variable;apartment;1;79300;1;1;true;true;male;16;38;true;lower;divorced;lower_value
+973;no;536000;16800;32;fixed;house;0.3;78200;0;1;true;true;male;14;35;true;secondary;single;lower_value
+974;no;292000;31500;9;variable;house;0.7;115100;3;4;true;false;male;30;52;true;lower;single;higher_value
+975;yes;343400;15400;22;variable;house;0.6;29900;3;3;true;false;male;30;52;true;lower secondary;divorced;lower_value
+976;no;873000;21600;43;fixed;house;0.7;87000;2;3;true;false;male;6;27;true;lower secondary;married;lower_value
+977;no;996000;36700;29;variable;house;0.2;88300;2;2;true;true;male;17;37;true;secondary;single;lower_value
+978;no;383000;24300;16;fixed;house;0.8;68700;1;1;true;true;male;30;75;false;lower;divorced;lower_value
+979;no;291000;10100;30;fixed;house;0.4;19500;1;1;true;true;male;20;43;true;secondary;married;lower_value
+980;no;880000;29400;32;fixed;apartment;0.7;75500;1;1;true;false;male;15;36;true;incomplete higher;single;lower_value
+981;no;354200;13300;28;fixed;house;0.2;70100;0;1;true;false;male;10;33;false;incomplete higher;married;lower_value
+982;no;312000;23500;14;fixed;house;0.6;79100;1;2;true;false;female;26;49;true;academic degree;married;lower_value
+983;no;1195000;36800;33;variable;house;0.3;116300;2;3;true;true;male;14;35;true;lower secondary;widowed;higher_value
+984;no;933000;21000;45;variable;apartment;1;77700;2;2;true;true;female;2;26;true;lower;widowed;lower_value
+985;no;827300;34800;26;fixed;house;1;82300;1;1;false;true;female;8;33;true;secondary;married;lower_value
+986;yes;279000;16300;19;variable;house;0.5;40900;2;2;false;false;female;26;43;true;secondary;married;lower_value
+987;no;245000;7000;37;variable;house;0.4;25700;2;2;true;true;female;7;28;true;academic degree;divorced;lower_value
+988;no;486000;11400;43;variable;apartment;0.6;23700;1;1;true;false;male;0;22;true;incomplete higher;married;lower_value
+989;no;195000;23000;9;variable;house;0.3;52900;2;1;true;true;male;30;64;true;academic degree;divorced;lower_value
+990;no;105000;8700;13;variable;house;0.4;17900;1;1;false;true;male;30;70;false;lower;married;lower_value
+991;no;514000;29800;18;fixed;apartment;0.9;72500;2;2;false;false;male;25;46;true;secondary;single;lower_value
+992;no;231000;13200;19;fixed;apartment;0.5;51000;2;2;false;false;male;24;46;true;academic degree;widowed;lower_value
+993;no;593000;16600;38;variable;apartment;0.7;89700;0;1;false;true;female;0;22;true;incomplete higher;married;lower_value
+994;no;140000;12000;13;fixed;apartment;0.4;45700;2;1;false;false;female;29;52;false;academic degree;single;lower_value
+995;no;948000;38000;27;variable;house;0.7;91800;2;2;true;false;male;12;35;true;secondary;single;higher_value
+996;no;699800;28100;25;fixed;house;0.1;58000;2;1;true;false;male;10;35;true;lower;married;lower_value
+997;no;1069300;48700;22;variable;house;0.6;96100;1;1;true;false;female;19;43;true;academic degree;single;higher_value
+998;no;1589000;38500;43;variable;house;1;148200;0;1;false;true;male;1;24;true;lower secondary;single;higher_value
+999;no;1399000;41300;35;variable;apartment;0.6;106000;2;3;true;true;male;6;32;true;lower;single;higher_value
