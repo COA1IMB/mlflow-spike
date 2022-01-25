@@ -4,7 +4,8 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer
-import pickle
+import mlflow
+import mlflow.sklearn
 
 ''' Required versions to execute this example
 pandas: 1.2.4
@@ -46,5 +47,4 @@ if __name__ == "__main__":
       pipe_model_rf = Pipeline([('prepocessor', preprocessor), ('ml_model', rf)])
       pipe_model_rf = pipe_model_rf.fit(credit, label)
 
-      # save trained model as pickle
-      pickle.dump(pipe_model_rf, open('credit-rf-model.pickle', 'wb'))
+      mlflow.sklearn.log_model(pipe_model_rf, "model", registered_model_name="Credit")
